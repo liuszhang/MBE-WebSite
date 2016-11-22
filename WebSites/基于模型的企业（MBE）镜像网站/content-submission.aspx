@@ -1,0 +1,324 @@
+<!DOCTYPE aspx>
+<!--[if IE 8]> <aspx class="ie8 no-js"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <aspx class="no-js"> <!--<![endif]-->
+
+<!-- Mirrored from www.model-based-enterprise.org/content-submission.aspx by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 20 Jun 2016 08:54:54 GMT -->
+<head>
+	<!-- begin meta -->
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=8, IE=9, IE=10">
+<title>Content Submission Form – Model Based Enterprise Articles Video Submission </title>
+	<meta name="description" content="Contribute articles, videos and news to the model based enterprise website using our online content submission form."/>
+<meta name="keywords" content="Contribute, articles, videos, news, model based enterprise, website, online, content submission, form."/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<!-- end meta -->
+	
+	<!-- begin CSS -->
+	<link href="style.css" type="text/css" rel="stylesheet" id="main-style">
+	<!--[if IE]> <link href="css/ie.css" type="text/css" rel="stylesheet"> <![endif]-->
+	<link href="css/colors/purple.aspx" type="text/css" rel="stylesheet" id="color-style">
+    <!-- end CSS -->
+	
+	<link href="images/favicon2.jpg" type="image/x-icon" rel="shortcut icon">
+	
+	<!-- begin JS -->
+    <script src="js/jquery-1.7.2.min.js" type="text/javascript"></script> <!-- jQuery -->
+    <script src="js/ie.js" type="text/javascript"></script> <!-- IE detection -->
+    <script src="js/jquery.easing.1.3.js" type="text/javascript"></script> <!-- jQuery easing -->
+	<script src="js/modernizr.custom.js" type="text/javascript"></script> <!-- Modernizr -->
+    <!--[if IE 8]><script src="js/respond.min.js" type="text/javascript"></script><![endif]--> <!-- Respond -->
+	<script src="js/jquery.polyglot.language.switcher.js" type="text/javascript"></script> <!-- language switcher -->
+    <script src="js/ddlevelsmenu.js" type="text/javascript"></script> <!-- drop-down menu -->
+    <script type="text/javascript"> <!-- drop-down menu -->
+        ddlevelsmenu.setup("nav", "topbar");
+    </script>
+    <script src="js/tinynav.min.js" type="text/javascript"></script> <!-- tiny nav -->
+    <script src="js/jquery.ui.totop.min.js" type="text/javascript"></script> <!-- scroll to top -->
+        <script src="js/jquery-ui-1.10.1.custom.min.js" type="text/javascript"></script> <!-- tabs, toggles, accordion -->
+        <script src="js/jquery.fancybox.pack.js" type="text/javascript"></script> <!-- lightbox -->
+	<script src="js/jquery.tweet.js" type="text/javascript"></script> <!-- Twitter widget -->
+	<script src="js/jquery.touchSwipe.min.js" type="text/javascript"></script> <!-- touchSwipe -->
+    <script src="js/custom.js" type="text/javascript"></script> <!-- jQuery initialization -->
+    <!-- end JS -->
+    <!-- Contact Form Start -->
+
+<script src="../ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<script src="cfg-contactform-2/js/contactform.aspx"></script>
+<link href="cfg-contactform-2/css/contactform.aspx" rel="stylesheet" type="text/css" />
+
+<script src="cfg-contactform-2/js/swfupload/swfupload.aspx"></script>
+<script src="cfg-contactform-2/js/swfupload/swfupload.queue.aspx"></script>
+<script src="cfg-contactform-2/js/swfupload/fileprogress.aspx"></script>
+<script src="cfg-contactform-2/js/swfupload/handlers.aspx"></script>
+<script src="cfg-contactform-2/js/upload.aspx"></script>
+<link href="cfg-contactform-2/js/swfupload/default.aspx" rel="stylesheet" type="text/css" />
+
+<!-- Contact Form End -->
+	
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','../www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-40759413-4', 'model-based-enterprise.org');
+  ga('send', 'pageview');
+</script>	
+</head>
+
+<body>
+<!-- begin container -->
+<div id="wrap">
+	<!-- begin header -->
+    <header id="header" class="container">
+        <!-- begin header top -->
+        <section id="header-top" class="clearfix">
+            <!-- begin header left -->
+            <div class="one-half">
+                <h1 id="logo"><a href="index-2.aspx"><img src="images/logo.png" alt="Model Based Enterprise"></a></h1>
+            </div>
+            <!-- end header left -->
+            
+            <!-- begin header right -->
+            <div class="one-half column-last">
+                <p id="tagline">Exploring The Digital Tapestry</p>
+            </div>
+            <!-- end header right -->
+        </section>
+        <!-- end header top -->
+            
+            <!-- begin navigation bar -->
+            <section id="navbar" class="clearfix">
+                <!-- begin navigation -->
+            <nav id="nav">
+                <ul id="navlist" class="clearfix">
+                <li><a href="index-2.aspx" data-rel="submenu1">Home</a>
+                    </li>
+                    <li><a href="model-based-enterprise-overview.aspx" data-rel="submenu1">Model Based Enterprise</a>
+                    </li>
+                    <li><a href="mbe-resources.aspx" data-rel="submenu2">Resources</a>
+                    </li>
+                    <li class="current"><a href="mbe-knowledge-base.aspx" data-rel="submenu3">Knowledge Base</a>
+                    </li>
+                    <li><a href="starting-model-based-enterprise.aspx" data-rel="submenu4">How to Get Started</a>
+                    </li>
+                    <li><a href="mbe-events.aspx" data-rel="submenu5">MBE Events</a>
+                    </li>
+                    <li><a href="contact.aspx">Contact Us</a></li>
+                </ul>
+            </nav>
+            <!-- end navigation -->
+
+            </section>
+            <!-- end navigation bar -->
+            
+        </header>
+        <!-- end header -->
+        
+	<!-- begin content -->
+        <section id="content" class="container clearfix">
+        	<!-- begin page header -->
+            <header id="page-header">
+            	<h1 id="page-title">Content Submission Form</h1>	
+            </header>
+            <!-- end page header -->
+        	
+            <!-- begin sidebar -->
+            <aside id="sidebar" class="one-fourth">
+            	<div class="widget">
+            	  <nav>
+					  <ul class="menu">
+							<li><a href="model-based-resource-links.aspx">Model Based Resource Links</a></li>
+							<li><a href="model-based-enterprise-presentations.aspx">MBE Presentations</a></li>
+							<li><a href="mbe-videos-3d-models.aspx">MBE Videos</a></li>
+                         <li><a href="manufacturing-extension-partnership.aspx">MEP Center Locator</a></li>
+                         <li><a href="mbe-articles.aspx">MBE Articles</a></li>
+                         <li><a href="mbe-success-stories.aspx">MBE Success Stories</a></li>
+                         <li><a href="mbe-lessons-learned.aspx">MBE Lessons Learned</a></li>
+                         <li class="current-menu-item"><a href="content-submission.aspx">Content Submission Form</a></li>
+					</ul>
+					</nav>
+				</div>
+            </aside>
+            <!-- end sidebar -->
+            
+            <!-- begin main content -->
+            <section id="main">
+            <div class="one-third">
+           	  <p>We invite you to submit your articles, presentations, and media for possible publishing on our website. We have created a content submission form to make the process easy. Please note that attachments must follow the formats listed below and that all executable file will be deleted for security purposes. You agree by submitting URLs of files and or actual files that the work is either your ownership or state the author of the content. Submission does not guarantee that the material will be used but it will be reviewed by our staff and published if it meets the quality of our website.</p>
+           	  <p><img src="images/submision-form-pix.jpg" width="297" height="566" alt=""/></p>
+            </div>
+            
+            <div class="one-third column-last">
+           	  <div class="cfg-contactform" id="cfg-contactform-2">
+           	    <div class="cfg-contactform-content">
+           	      <?php
+$dir_install_contactform = 'cfg-contactform-2';
+
+if(!is_dir($dir_install_contactform.'/upload'))
+{
+	@mkdir($dir_install_contactform.'/upload', 0755);
+}
+
+if(!is_writable($dir_install_contactform.'/upload'))
+{
+	@chmod($dir_install_contactform.'/upload', 0755);
+	
+	if(!is_writable($dir_install_contactform.'/upload'))
+	{
+		@chmod($dir_install_contactform.'/upload', 0777);
+		
+		if(!is_writable($dir_install_contactform.'/upload'))
+		{
+					
+			
+?>
+           	      <div class="cfg-element-container">
+           	        <label class="cfg-label" id="cfg-element-2-6-label" ><span class="cfg-label-value">Name</span></label>
+           	        <div class="cfg-element-set" id="cfg-element-2-6-set" >
+           	          <div class="cfg-element-content">
+           	            <input type="text" class="cfg-type-text cfg-form-value " name="cfg-element-2-6" id="cfg-element-2-6"  />
+       	              </div>
+       	            </div>
+           	        <div class="cfg-clear"></div>
+       	          </div>
+           	      <div class="cfg-element-container">
+           	        <label class="cfg-label" id="cfg-element-2-7-label" ><span class="cfg-label-value">Title/Position</span></label>
+           	        <div class="cfg-element-set" id="cfg-element-2-7-set" >
+           	          <div class="cfg-element-content">
+           	            <input type="text" class="cfg-type-text cfg-form-value " name="cfg-element-2-7" id="cfg-element-2-7"  />
+       	              </div>
+       	            </div>
+           	        <div class="cfg-clear"></div>
+       	          </div>
+           	      <div class="cfg-element-container">
+           	        <label class="cfg-label" id="cfg-element-2-10-label" ><span class="cfg-label-value">Company</span></label>
+           	        <div class="cfg-element-set" id="cfg-element-2-10-set" >
+           	          <div class="cfg-element-content">
+           	            <input type="text" class="cfg-type-text cfg-form-value " name="cfg-element-2-10" id="cfg-element-2-10"  />
+       	              </div>
+       	            </div>
+           	        <div class="cfg-clear"></div>
+       	          </div>
+           	      <div class="cfg-element-container">
+           	        <label class="cfg-label" id="cfg-element-2-8-label" ><span class="cfg-label-value">Address</span></label>
+           	        <div class="cfg-element-set" id="cfg-element-2-8-set" >
+           	          <div class="cfg-element-content">
+           	            <input type="text" class="cfg-type-text cfg-form-value " name="cfg-element-2-8" id="cfg-element-2-8"  />
+       	              </div>
+       	            </div>
+           	        <div class="cfg-clear"></div>
+       	          </div>
+           	      <div class="cfg-element-container">
+           	        <label class="cfg-label" id="cfg-element-2-9-label" ><span class="cfg-label-value">Phone</span></label>
+           	        <div class="cfg-element-set" id="cfg-element-2-9-set" >
+           	          <div class="cfg-element-content">
+           	            <input type="text" class="cfg-type-text cfg-form-value " name="cfg-element-2-9" id="cfg-element-2-9"  />
+       	              </div>
+       	            </div>
+           	        <div class="cfg-clear"></div>
+       	          </div>
+           	      <div class="cfg-element-container">
+           	        <label class="cfg-label" id="cfg-element-2-3-label" ><span class="cfg-label-value">Email address</span><span class="cfg-required">*</span></label>
+           	        <div class="cfg-element-set" id="cfg-element-2-3-set" >
+           	          <div class="cfg-element-content">
+           	            <input type="text" class="cfg-type-text cfg-form-value " name="cfg-element-2-3" id="cfg-element-2-3"  />
+       	              </div>
+       	            </div>
+           	        <div class="cfg-clear"></div>
+       	          </div>
+           	      <div class="cfg-element-container">
+           	        <div class="cfg-element-set" id="cfg-element-2-18-set" >
+           	          <div class="cfg-element-content">
+           	            <div class="cfg-paragraph " name="cfg-element-2-18-paragraph" id="cfg-element-2-18-paragraph"  > Please type a brief explanation of the article or content you would like to submit. If it is a web article please include the web addres and URL. </div>
+       	              </div>
+       	            </div>
+       	          </div>
+           	      <div class="cfg-element-container">
+           	        <label class="cfg-label" id="cfg-element-2-4-label" ><span class="cfg-label-value">Your message</span><span class="cfg-required">*</span></label>
+           	        <div class="cfg-element-set" id="cfg-element-2-4-set" >
+           	          <div class="cfg-element-content">
+           	            <textarea class="cfg-type-textarea cfg-form-value " name="cfg-element-2-4" id="cfg-element-2-4" rows="6" ></textarea>
+       	              </div>
+       	            </div>
+           	        <div class="cfg-clear"></div>
+       	          </div>
+           	      <div class="cfg-element-container">
+           	        <div class="cfg-element-set" id="cfg-element-2-16-set" >
+           	          <div class="cfg-element-content"> <span class="cfg-title "  name="cfg-element-2-16" id="cfg-element-2-16">Content File Uploader</span> </div>
+       	            </div>
+       	          </div>
+           	      <div class="cfg-element-container">
+           	        <div class="cfg-element-set" id="cfg-element-2-17-set" >
+           	          <div class="cfg-element-content">
+           	            <div class="cfg-paragraph " name="cfg-element-2-17-paragraph" id="cfg-element-2-17-paragraph"  > File Attachment: Please use the browse button to select the file or article you wish to submit. Acceptable file formats include .PDF, .doc, .jpeg, .gif, .png and must be under 2MB in size. </div>
+       	              </div>
+       	            </div>
+       	          </div>
+           	      <div class="cfg-element-container">
+           	        <label class="cfg-label" id="cfg-element-2-15-label" ><span class="cfg-label-value">Upload</span></label>
+           	        <div class="cfg-element-set" id="cfg-element-2-15-set" >
+           	          <div class="cfg-element-content">
+           	            <input type="hidden" class="cfg-form-value cfg-uploadfilename" name="cfg-element-2-15"  />
+           	            <input type="hidden" class="cfg-uploaddeletefile" value="1"  />
+           	            <span id="uploadbutton_cfg_element_2_15" class="btnUpload"></span>
+           	            <input id="btnCancel_cfg_element_2_15" type="button" value="Cancel Upload" onclick="swfupload_cfg_element_2_15.cancelQueue();" disabled="disabled" style="display:none;margin-left: 2px; font-size: 8pt; height: 29px;" />
+           	            <div id="fsUploadProgress_cfg_element_2_15"></div>
+       	              </div>
+       	            </div>
+           	        <div class="cfg-clear"></div>
+       	          </div>
+           	      <div class="cfg-element-container">
+           	        <div class="cfg-element-set" id="cfg-element-2-5-set" >
+           	          <div class="cfg-element-content">
+           	            <input type="submit" class="cfg-submit " name="cfg-element-2-5" id="cfg-element-2-5" value="Send"   />
+       	              </div>
+       	            </div>
+       	          </div>
+           	      <div class="cfg-loading">&nbsp;</div>
+       	        </div>
+           	    <!-- cfg-contactform-content -->
+       	      </div>
+           	  <p>&nbsp;</p>
+            </div>
+            </section>
+            <!-- end main content -->
+        </section>
+        <!-- end content -->             
+    
+	<!-- begin footer -->
+	<footer id="footer">
+    	<div class="container">
+            <!-- begin footer top --><!-- end footer top -->
+
+            <!-- begin footer bottom -->
+            <div id="footer-bottom">
+            	<div class="one-half">
+               <a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=3662100" target="_new"><img src="images/social-media/linkedin.png" width="98" height="25" alt=""/></a>
+
+                	<p>Become a part of our Model Based Enterprise LinkedIn Group.</p>
+                </div>
+
+                <div class="one-half column-last">
+                	<div align="right">Copyright © 2014 Model Based Enterprise. All rights reserved. </div>
+                    <nav id="footer-nav">
+                        <ul>
+                            <li><a href="sitemap.aspx">Site Map</a> &middot;</li>
+                            <li></li>
+                            <li><a href="legal-statement.aspx">Legal</a> &middot;</li>
+                            <li><a href="privacy-policy.aspx">Privacy</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <!-- end footer bottom -->
+        </div>
+	</footer>
+	<!-- end footer -->
+</div>
+<!-- end container -->
+
+</body>
+
+<!-- Mirrored from www.model-based-enterprise.org/content-submission.aspx by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 20 Jun 2016 08:55:49 GMT -->
+</aspx>

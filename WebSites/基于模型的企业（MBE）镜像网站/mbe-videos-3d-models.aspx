@@ -1,0 +1,203 @@
+<!DOCTYPE aspx>
+<!--[if IE 8]> <aspx class="ie8 no-js"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <aspx class="no-js"> <!--<![endif]-->
+
+<!-- Mirrored from www.model-based-enterprise.org/mbe-videos-3d-models.aspx by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 20 Jun 2016 08:50:24 GMT -->
+<head>
+	<!-- begin meta -->
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=8, IE=9, IE=10">
+<title>Model Based Enterprise – Video Presentations – 3D Model Videos</title>
+	<meta name="description" content="Model Based Enterprise Videos provide presentations about 3D models and annotated models as well as related MBE topics."/>
+<meta name="keywords" content="Model Based Enterprise, videos, MBE, educate, inform, You Tube, MBE Video, video presentations, 3D models, annotated models, drawings."/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<!-- end meta -->
+	
+	<!-- begin CSS -->
+	<link href="style.css" type="text/css" rel="stylesheet" id="main-style">
+	<!--[if IE]> <link href="css/ie.css" type="text/css" rel="stylesheet"> <![endif]-->
+	<link href="css/colors/purple.aspx" type="text/css" rel="stylesheet" id="color-style">
+    <!-- end CSS -->
+	
+	<link href="images/favicon2.jpg" type="image/x-icon" rel="shortcut icon">
+	
+	<!-- begin JS -->
+    <script src="js/jquery-1.7.2.min.js" type="text/javascript"></script> <!-- jQuery -->
+    <script src="js/ie.js" type="text/javascript"></script> <!-- IE detection -->
+    <script src="js/jquery.easing.1.3.js" type="text/javascript"></script> <!-- jQuery easing -->
+	<script src="js/modernizr.custom.js" type="text/javascript"></script> <!-- Modernizr -->
+    <!--[if IE 8]><script src="js/respond.min.js" type="text/javascript"></script><![endif]--> <!-- Respond -->
+	<script src="js/jquery.polyglot.language.switcher.js" type="text/javascript"></script> <!-- language switcher -->
+    <script src="js/ddlevelsmenu.js" type="text/javascript"></script> <!-- drop-down menu -->
+    <script type="text/javascript"> <!-- drop-down menu -->
+        ddlevelsmenu.setup("nav", "topbar");
+    </script>
+    <script src="js/tinynav.min.js" type="text/javascript"></script> <!-- tiny nav -->
+    <script src="js/jquery.ui.totop.min.js" type="text/javascript"></script> <!-- scroll to top -->
+        <script src="js/jquery-ui-1.10.1.custom.min.js" type="text/javascript"></script> <!-- tabs, toggles, accordion -->
+        <script src="js/jquery.fancybox.pack.js" type="text/javascript"></script> <!-- lightbox -->
+	<script src="js/jquery.tweet.js" type="text/javascript"></script> <!-- Twitter widget -->
+	<script src="js/jquery.touchSwipe.min.js" type="text/javascript"></script> <!-- touchSwipe -->
+    <script src="js/custom.js" type="text/javascript"></script> <!-- jQuery initialization -->
+    <!-- end JS -->
+	
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','../www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-40759413-4', 'model-based-enterprise.org');
+  ga('send', 'pageview');
+</script>	
+</head>
+
+<body>
+<!-- begin container -->
+<div id="wrap">
+	<!-- begin header -->
+    <header id="header" class="container">
+        <!-- begin header top -->
+        <section id="header-top" class="clearfix">
+            <!-- begin header left -->
+            <div class="one-half">
+                <h1 id="logo"><a href="index-2.aspx"><img src="images/logo.png" alt="Model Based Enterprise"></a></h1>
+            </div>
+            <!-- end header left -->
+            
+            <!-- begin header right -->
+            <div class="one-half column-last">
+                <p id="tagline">Exploring The Digital Tapestry</p>
+            </div>
+            <!-- end header right -->
+        </section>
+        <!-- end header top -->
+            
+            <!-- begin navigation bar -->
+            <section id="navbar" class="clearfix">
+                <!-- begin navigation -->
+            <nav id="nav">
+                <ul id="navlist" class="clearfix">
+                <li><a href="index-2.aspx" data-rel="submenu1">Home</a>
+                    </li>
+                    <li><a href="model-based-enterprise-overview.aspx" data-rel="submenu1">Model Based Enterprise</a>
+                    </li>
+                    <li><a href="mbe-resources.aspx" data-rel="submenu2">Resources</a>
+                    </li>
+                    <li class="current"><a href="mbe-knowledge-base.aspx" data-rel="submenu3">Knowledge Base</a>
+                    </li>
+                    <li><a href="starting-model-based-enterprise.aspx" data-rel="submenu4">How to Get Started</a>
+                    </li>
+                    <li><a href="mbe-events.aspx" data-rel="submenu5">MBE Events</a>
+                    </li>
+                    <li><a href="contact.aspx">Contact Us</a></li>
+                </ul>
+            </nav>
+            <!-- end navigation -->
+                
+            </section>
+            <!-- end navigation bar -->
+            
+        </header>
+        <!-- end header -->
+        
+	<!-- begin content -->
+        <section id="content" class="container clearfix">
+        	<!-- begin page header -->
+            <header id="page-header">
+            	<h1 id="page-title">Model Based Enterprise Videos</h1>	
+            </header>
+            <!-- end page header -->
+        	
+            <!-- begin sidebar -->
+            <aside id="sidebar" class="one-fourth">
+            	<div class="widget">
+            	  <nav>
+					  <ul class="menu">
+							<li><a href="model-based-resource-links.aspx">Model Based Resource Links</a></li>
+							<li><a href="model-based-enterprise-presentations.aspx">MBE Presentations</a></li>
+							<li class="current-menu-item"><a href="mbe-videos-3d-models.aspx">MBE Videos</a></li>
+                         <li><a href="manufacturing-extension-partnership.aspx">MEP Center Locator</a></li>
+                         <li><a href="mbe-articles.aspx">MBE Articles</a></li>
+                         <li><a href="mbe-success-stories.aspx">MBE Success Stories</a></li>
+                         <li><a href="mbe-lessons-learned.aspx">MBE Lessons Learned</a></li>
+                         <li><a href="content-submission.aspx">Content Submission Form</a></li>
+					</ul>
+					</nav>
+				</div>
+            </aside>
+            <!-- end sidebar -->
+            
+            <!-- begin main content -->
+            <section id="main">
+            <section class="three-fourths column-last">
+              <h2>Video Presentations from The 1st Annual MBE Education &amp; Training Summit</h2>
+              <div class="entry-image float-right"><img src="images/MBE-video.jpg" alt="MBE Videos"></a>
+                    </div>
+              <ul>
+                <li><strong>MBE Summit Opening Remarks</strong> <a href="http://www.youtube.com/watch?v=QYlW4vHrwIw" target="_blank">(Part 1)</a> <a href="http://www.youtube.com/watch?v=t6Z2Bv5pTjM" target="_blank">(Part 2)</a><br>
+                  <em>Deborah Greger, DLA DLIS Director</em><br>
+                  <em>Susan Baldwin, Mayor, Battle Creek, MI</em><br>
+                  <em>Karl Dehn, President &amp; CEO, Battle Creek Unlimited</em></li>
+                <li><strong>Enabling Model Based Enterprise</strong> <a href="http://www.youtube.com/watch?v=y6rRp53ad2A" target="_blank">(Part 1)</a> <a href="http://www.youtube.com/watch?v=deCRP5H90GA" target="_blank">(Part 2)</a><br>
+                  <em>Ken Adkins, DLA Defense Supply Chain Center Columbus</em></li>
+                <li><strong>Establishing the Joint Defense Advanced Manufacturing Enterprise AME</strong> <a href="http://www.youtube.com/watch?v=0jkJSvGVQUk" target="_blank">(Part 1)</a> <a href="http://www.youtube.com/watch?v=fyYQ-cd7DWM" target="_blank">(Part 2)</a><br>
+                  <em>John Christensen, Provisional AME Subpanel Chairman</em></li>
+                <li><strong>Reuse of Model Based Definition Data</strong> <a href="http://www.youtube.com/watch?v=Qg74NCTf1So" target="_blank">(Part 1)</a> <a href="http://www.youtube.com/watch?v=s7uQoeV5zfw" target="_blank">(Part 2)</a><br>
+                  <em>Paul Huang, MBE Program Leader, ARL</em></li>
+                <li><strong>Realizing the Model Based Enterprise</strong> <a href="http://www.youtube.com/watch?v=C2WlKvaldkY" target="_blank">(Part 1)</a> <a href="http://www.youtube.com/watch?v=dhmoccMS5Sg" target="_blank">(Part 2)</a><br>
+                  <em>Brench L. Boden, Team Lead Advanced Enterprise Concepts , AFRL</em></li>
+                <li><strong>Technical Data Codification within Model Based Enterprise</strong> <a href="http://www.youtube.com/watch?v=4685impUx88" target="_blank">(Part 1)</a> <a href="http://www.youtube.com/watch?v=qzvsnKNZsJs" target="_blank">(Part 2)</a><br>
+                  <em>Ric Norton, DLA Defense Logistics Information Services</em></li>
+                <li><strong>Supplier Capabilities Assessment &amp; Potential Certification</strong> <a href="http://www.youtube.com/watch?v=8qaQRIGrysQ" target="_blank">(Part 1)</a> <a href="http://www.youtube.com/watch?v=YTyWYh0tKbk" target="_blank">(Part 2)</a> <a href="http://www.youtube.com/watch?v=-0dYPdnEt6M" target="_blank">(Part 3)</a><br>
+                  <em>David Stieren, Montana Mallett, NIST MEP</em></li>
+                <li><strong>Lanuch of the Model Based Enterprise Web Site</strong> <a href="http://www.youtube.com/watch?v=E4cI1o5lRhA" target="_blank">(Part 1)</a> <a href="http://www.youtube.com/watch?v=_asxHNBkBn0" target="_blank">(Part 2)</a><br>
+                  <em>Bob Cunningham, Neal Rabogliatti, Catalyst Connection</em></li>
+                <li><strong>The MEP Network &amp; How We Can Help</strong> <a href="http://www.youtube.com/watch?v=OSjDjGAbvmw" target="_blank">(Part 1)</a> <a href="http://www.youtube.com/watch?v=N1PitomGmBs" target="_blank">(Part 2)</a><br>
+                  <em>Mike Coast, Michigan Manufacturing Technology Center</em></li>
+              </ul>
+              <hr>
+              <p>We have created an interactive video to help educate and illustrate  what model based enterprise is and how it is revolutionizing the supply  chain management and manufacturing. Through this new technology,  suppliers will benefit through the reduction of error rate and re-work  as well as reduced labor in data and document creation. MBE also reduces  the time to mission by making it possible to quickly produce &lsquo;build-to&rsquo;  packages, that is, sets of documents that contain all data required to  manufacture components, and provide all the information you need to  begin production.</p>
+              <p><iframe width="640" height="480" src="http://www.youtube.com/embed/m0W0O05ezR0?rel=0" frameborder="0" allowfullscreen></iframe>)</p>
+              <p>For more information on <strong>Model Based Enterprise</strong>, visit our <a href="mbe-knowledge-base.aspx">MBE Resource Center</a> or <a href="contact.aspx">contact us</a>.            </p>
+            </section>
+            </section>
+            <!-- end main content -->
+        </section>
+        <!-- end content -->             
+    
+	<!-- begin footer -->
+	<footer id="footer">
+    	<div class="container">
+            <!-- begin footer top --><!-- end footer top -->
+
+            <!-- begin footer bottom -->
+            <div id="footer-bottom">
+            	<div class="one-half">
+               <a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=3662100" target="_new"><img src="images/social-media/linkedin.png" width="98" height="25" alt=""/></a>
+
+                	<p>Become a part of our Model Based Enterprise LinkedIn Group.</p>
+                </div>
+
+                <div class="one-half column-last">
+                	<div align="right">Copyright © 2014 Model Based Enterprise. All rights reserved. </div>
+                    <nav id="footer-nav">
+                        <ul>
+                            <li><a href="sitemap.aspx">Site Map</a> &middot;</li>
+                            <li></li>
+                            <li><a href="legal-statement.aspx">Legal</a> &middot;</li>
+                            <li><a href="privacy-policy.aspx">Privacy</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <!-- end footer bottom -->
+        </div>
+	</footer>
+	<!-- end footer -->
+</div>
+<!-- end container -->
+
+</body>
+
+<!-- Mirrored from www.model-based-enterprise.org/mbe-videos-3d-models.aspx by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 20 Jun 2016 08:50:31 GMT -->
+</aspx>

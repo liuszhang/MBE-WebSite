@@ -1,0 +1,223 @@
+<!DOCTYPE aspx>
+<!--[if IE 8]> <aspx class="ie8 no-js"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <aspx class="no-js"> <!--<![endif]-->
+
+<!-- Mirrored from www.model-based-enterprise.org/privacy-policy.aspx by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 20 Jun 2016 07:54:45 GMT -->
+<head>
+	<!-- begin meta -->
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=8, IE=9, IE=10">
+<title>Model Based Enterprise | Internet Privacy Policy</title>
+	<meta name="description" content="The Model Based Enterprise privacy policy discloses how we use information and emails collected from the web site and ensures that information is not resold."/>
+<meta name="keywords" content="Model Based Enterprise, privacy policy, discloses, information, emails, collected, web site, not resold."/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<!-- end meta -->
+	
+	<!-- begin CSS -->
+	<link href="style.css" type="text/css" rel="stylesheet" id="main-style">
+	<!--[if IE]> <link href="css/ie.css" type="text/css" rel="stylesheet"> <![endif]-->
+	<link href="css/colors/purple.aspx" type="text/css" rel="stylesheet" id="color-style">
+    <!-- end CSS -->
+	
+	<link href="images/favicon2.jpg" type="image/x-icon" rel="shortcut icon">
+	
+	<!-- begin JS -->
+    <script src="js/jquery-1.7.2.min.js" type="text/javascript"></script> <!-- jQuery -->
+    <script src="js/ie.js" type="text/javascript"></script> <!-- IE detection -->
+    <script src="js/jquery.easing.1.3.js" type="text/javascript"></script> <!-- jQuery easing -->
+	<script src="js/modernizr.custom.js" type="text/javascript"></script> <!-- Modernizr -->
+    <!--[if IE 8]><script src="js/respond.min.js" type="text/javascript"></script><![endif]--> <!-- Respond -->
+	<script src="js/jquery.polyglot.language.switcher.js" type="text/javascript"></script> <!-- language switcher -->
+    <script src="js/ddlevelsmenu.js" type="text/javascript"></script> <!-- drop-down menu -->
+    <script type="text/javascript"> <!-- drop-down menu -->
+        ddlevelsmenu.setup("nav", "topbar");
+    </script>
+    <script src="js/tinynav.min.js" type="text/javascript"></script> <!-- tiny nav -->
+    <script src="js/jquery.ui.totop.min.js" type="text/javascript"></script> <!-- scroll to top -->
+        <script src="js/jquery-ui-1.10.1.custom.min.js" type="text/javascript"></script> <!-- tabs, toggles, accordion -->
+        <script src="js/jquery.fancybox.pack.js" type="text/javascript"></script> <!-- lightbox -->
+	<script src="js/jquery.tweet.js" type="text/javascript"></script> <!-- Twitter widget -->
+	<script src="js/jquery.touchSwipe.min.js" type="text/javascript"></script> <!-- touchSwipe -->
+    <script src="js/custom.js" type="text/javascript"></script> <!-- jQuery initialization -->
+    <!-- end JS -->
+	
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','../www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-40759413-4', 'model-based-enterprise.org');
+  ga('send', 'pageview');
+</script>	
+</head>
+
+<body>
+<!-- begin container -->
+<div id="wrap">
+	<!-- begin header -->
+    <header id="header" class="container">
+        <!-- begin header top -->
+        <section id="header-top" class="clearfix">
+            <!-- begin header left -->
+            <div class="one-half">
+                <h1 id="logo"><a href="index-2.aspx"><img src="images/logo.png" alt="Model Based Enterprise"></a></h1>
+            </div>
+            <!-- end header left -->
+            
+            <!-- begin header right -->
+            <div class="one-half column-last">
+                <p id="tagline">Exploring The Digital Tapestry</p>
+            </div>
+            <!-- end header right -->
+        </section>
+        <!-- end header top -->
+            
+            <!-- begin navigation bar -->
+            <section id="navbar" class="clearfix">
+                <!-- begin navigation -->
+            <nav id="nav">
+                <ul id="navlist" class="clearfix">
+                <li><a href="index-2.aspx" data-rel="submenu1">主页</a>
+                    </li>
+                    <li><a href="model-based-enterprise-overview.aspx" data-rel="submenu1">基于模型的企业</a>
+                    </li>
+                    <li><a href="mbe-resources.aspx" data-rel="submenu2">相关资源</a>
+                    </li>
+                    <li><a href="mbe-knowledge-base.aspx" data-rel="submenu3">知识基础</a>
+                    </li>
+                    <li><a href="starting-model-based-enterprise.aspx" data-rel="submenu4">如何开始</a>
+                    </li>
+                    <li><a href="mbe-events.aspx" data-rel="submenu5">MBE 大事记</a>
+                    </li>
+                    <li><a href="contact.aspx">联系我们</a></li>
+                </ul>
+            </nav>
+            <!-- end navigation -->
+                
+              
+            </section>
+            <!-- end navigation bar -->
+            
+        </header>
+        <!-- end header -->
+        
+	<!-- begin content -->
+        <section id="content" class="container clearfix">
+        	<!-- begin page header -->
+            <header id="page-header">
+            	<h1 id="page-title">网络隐私策略</h1>	
+            </header>
+            <!-- end page header -->
+        	
+            <!-- begin sidebar -->
+            <aside id="sidebar" class="one-fourth">
+            	<div class="widget">
+            	  <nav>
+					  <ul class="menu">
+							<li><a href="about-mbe.aspx">About MBE</a></li>
+							<li class="current-menu-item"><a href="privacy-policy.aspx">Privacy Policy</a></li>
+                         <li><a href="legal-statement.aspx">Legal Statement</a></li>
+					</ul>
+					</nav>
+				</div>
+            </aside>
+            <!-- end sidebar -->
+            
+            <!-- begin main content -->
+            <section id="main">
+            <!-- begin accordion -->
+            <section class="three-fourths column-last">
+              <div id="content2">
+                <div id="content3">
+                  <p>本页陈述了MBE网站的“隐私声明”。请仔细阅读本页。 The MBE (the &quot;MBE&quot;, &quot;our&quot;, &quot;us&quot;) may revise this Privacy Statement at any time as set forth below. Users should visit this page periodically to review this Privacy Statement. The term &quot;User&quot; as used herein refers to all members and visitors accessing this web site for any reason. This Privacy Policy was last updated on April 2014.<br>
+                  </p>
+                  <p>MBE respects the privacy of its members and other visitors to its Web site. MBE strongly believes that if electronic commerce and online activities are to flourish, Users must be assured that information provided online is used responsibly and appropriately. To protect online privacy, MBE has implemented the following policy.<br>
+                  </p>
+                  <p><strong>What Information Does MBE Collect?</strong><br>
+                    Most data MBE collects are used only to help MBE better serve its members. It is our general policy to collect and store only personal information that our members and visitors knowingly provide. If our privacy policies change, we will notify all Users by e-mail or a special announcement placed on the Web site.<br>
+  </p>
+                  <p><strong>From General Users. </strong>MBE does not collect any personal information from Users browsing its Web site. Users to the public areas of MBE's Web site browse anonymously. Only aggregate data -- such as the number of hits per page--are collected. Aggregate data are only used for internal and marketing purposes and do not provide any personally identifying information.<br>
+                  </p>
+                  <p><strong>From MBE Members, Conference Registrants, and Other Customers. </strong>To gain access to members-only resources and personalization features on the MBE Web site, members and other Users are asked to register and provide some limited information. These data are submitted voluntarily. MBE asks Users to provide their name, member number (for members), organization name, business phone, and e-mail. Similar information may be submitted to MBE through membership applications, conference or seminar registration, publication orders, subscriptions, and contest registrations.<br>
+                  </p>
+                  <p><strong>How Does MBE Use Data Collected?</strong><br>
+                    MBE uses information voluntarily submitted by members and other customers in the following ways:<br>
+                    MBE Member Services and Products. Generally, MBE and its direct subsidiaries use data collected to improve its own Web content; to respond to visitors' interests, needs and preferences; and to develop new products and services.<br>
+                  </p>
+                  <p><strong>Disclosures to Third Parties. </strong>MBE also makes member contact information available through a Directory to other members using its Web site and to those who register for meetings and conferences that it sponsors. In addition, MBE incorporates information Users provide into hard copies of a Directory that it provides to members and may sell to requesters. On occasion, MBE may also provide limited data to third parties that offer products and services. These limited data include names, job titles, companies and business addresses, but do not include business e-mail addresses. Users may request MBE to refrain from disclosing the data it collects to third parties on the website, meeting or conference registration forms or any other form on which they are providing information; an opt-out box will appear on each form on which a User provides information. Alternatively, Users may contact MBE at <a href="mailto:info@catalystconnection.org" target="_new">info@catalystconnection.org</a> or 412.918.4300 to express their preferences if they determine later that they do not wish to have the information shared.<br>
+                    <br>
+                  </p>
+                  <p><strong>Credit Card Account Information. </strong>MBE does not disclose credit card account information provided by its members and customers. When members and customers choose to pay using their credit cards, MBE submits the information needed to obtain payment to the appropriate clearinghouse.<br>
+                  </p>
+                  <p><strong>How Does MBE Use Cookies?</strong><br>
+                    Cookies are files that contain information created by a web server that can be stored on a User's hard disk for use either during a particular session (&quot;per-session&quot; cookie) or for future use (&quot;persistent&quot; cookie). MBE uses cookies only to facilitate automated activity, store and track passwords, determine appropriate solicitations, and review navigation patterns. Cookies are not used to disseminate significant information about Users over the Internet or to analyze any information that Users have knowingly or unknowingly provided. When a User registers, the system will ask whether the User approves of the attachment of a cookie. Users may instruct their Internet browsers to opt out of accepting a &quot;persistent&quot; cookie and rather accept only a &quot;per-session&quot; cookie, but will need to login each time they visit the site to enjoy the full benefits. If the User declines the attachment of any cookie, the User may not have access to the full benefits of the website. Registration enables the site to better determine members' interest areas and provide the most relevant information.<br>
+                  </p>
+                  <p><strong>What Privacy Issues Arise With Links To Other Sites?</strong><br>
+                    This Web site contains links to other web sites. MBE has no control over and is not responsible for the privacy policies or content of such sites.<br>
+                  </p>
+                  <p><strong>What about information from children?</strong><br>
+                    MBE does not intend to collect information from children. MBE is committed to the safety of children and we do not intend to collect personally identifiable information from children under age 18. If a User is under age 18, the User should ask his or her parent for permission before sending any information to our site or anyone else online. The User's parent should contact us directly in order to provide us with prior written consent. MBE will not intentionally use personal information from or send communications to children under age 13 without prior parental consent.<br>
+  <br>
+  <strong>How Should a User Contact MBE?</strong><br>
+                    If any User suspects MBE has handled its personal information in a manner that does not comply with this privacy statement, please contact us by e-mailing <a href="mailto:info@catalystconnection.org" target="_new">info@catalystconnection.org</a> or by calling <a href="tel:4129184214">412.918.4214</a>.<br>
+                  </p>
+                  <p>MBE<br>
+                    2000 Technology Drive<br>
+                    Pittsburgh, PA 15219<br>
+                    Phone: 412.918-4300<br>
+                  Fax: 412.687.2791</p>
+                </div>
+              </div></section>
+            <!-- end accordion -->
+            </section>
+            <!-- end main content -->
+        </section>
+        <!-- end content -->             
+    
+	<!-- begin footer -->
+	<footer id="footer">
+    	<div class="container">
+            <!-- begin footer top --><!-- end footer top -->
+
+            <!-- begin footer bottom -->
+            <div id="footer-bottom">
+            	<div class="one-half">
+               <a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=3662100" target="_new"><img src="images/social-media/linkedin.png" width="98" height="25" alt=""/></a>
+
+                	<p>Become a part of our Model Based Enterprise LinkedIn Group.</p>
+                </div>
+
+                <div class="one-half column-last">
+                	<div align="right">Copyright © 2014 Model Based Enterprise. All rights reserved. </div>
+                    <nav id="footer-nav">
+                        <ul>
+                            <li><a href="sitemap.aspx">Site Map</a> &middot;</li>
+                            <li></li>
+                            <li><a href="legal-statement.aspx">Legal</a> &middot;</li>
+                            <li><a href="privacy-policy.aspx">Privacy</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <!-- end footer bottom -->
+        </div>
+  </footer>
+	<!-- end footer -->
+</div>
+<!-- end container -->
+
+</body>
+
+<!-- Mirrored from www.model-based-enterprise.org/privacy-policy.aspx by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 20 Jun 2016 07:54:45 GMT -->
+</aspx>        </nav>
+                </div>
+            </div>
+            <!-- end footer bottom -->
+        </div>
+  </footer>
+	<!-- end footer -->
+</div>
+<!-- end container -->
+
+</body>
+</aspx>
