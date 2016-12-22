@@ -199,7 +199,7 @@
             
           </section>
             <!-- end main content -->
-        </section>
+        
         <!-- end content -->             
     
 	<!-- begin footer -->

@@ -1,8 +1,7 @@
 ﻿<!DOCTYPE aspx>
-<!--[if IE 8]> <aspx class="ie8 no-js"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--> <aspx class="no-js"> <!--<![endif]-->
+<aspx class="no-js"> <!--<![endif]-->
 
-<!-- Mirrored from www.model-based-enterprise.org/mbe-events.aspx by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 20 Jun 2016 07:52:34 GMT -->
+
 <head>
 	<!-- begin meta -->
 	<meta charset="utf-8">

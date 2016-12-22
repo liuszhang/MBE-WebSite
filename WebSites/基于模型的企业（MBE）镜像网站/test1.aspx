@@ -1,8 +1,9 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="MasterPage.master" AutoEventWireup="true"%>
 
 
+
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">  
-    <title>首页</title>  
+    <title>test1</title>  
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">    
 
@@ -134,3 +135,4 @@ Oct 1st, 2015 Pittsburgh, PA</h2>
     </section>
 
 </asp:Content>
+

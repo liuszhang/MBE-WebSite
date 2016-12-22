@@ -1,9 +1,6 @@
 ﻿<!DOCTYPE aspx>
-<!--[if IE 8]> <aspx class="ie8 no-js"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--> <aspx class="no-js"> <!--<![endif]-->
-
-<!-- Mirrored from www.model-based-enterprise.org/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 20 Jun 2016 07:52:38 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/aspx;charset=UTF-8" /><!-- /Added by HTTrack -->
+ <aspx class="no-js"> 
+<meta http-equiv="content-type" content="text/aspx;charset=UTF-8" />
 <head>
 	<!-- begin meta -->
 	<meta charset="utf-8">
@@ -61,7 +58,7 @@
         <section id="header-top" class="clearfix">
             <!-- begin header left -->
             <div class="one-half">
-                <h1 id="logo"><a href="index-2.aspx"><img src="images/logo.png" alt="Model Based Enterprise"></a></h1>
+                <h1 id="logo"><a href="index-2.aspx"><img src="images/logo.png" alt="基于模型的企业"></a></h1>
             </div>
             <!-- end header left -->
             
@@ -206,13 +203,16 @@ our website and if there are any suggestions you would like to offer.</p>
             <!-- begin footer bottom -->
             <div id="footer-bottom">
             	<div class="one-half">
-               <a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=3662100" target="_new"><img src="images/social-media/linkedin.png" width="98" height="25" alt=""/></a>
+               <a href="https://cn.linkedin.com/in/盛章-刘-391032122" target="_new"><img src="images/social-media/linkedin.png" width="98" height="25" alt=""/></a>
 
-                	<p>Become a part of our Model Based Enterprise LinkedIn Group.</p>
+                	<p>在领英上联系我。</p>
                 </div>
 
                 <div class="one-half column-last">
-                	<div align="right">Copyright © 2014 Model Based Enterprise. All rights reserved. </div>
+                	<div align="right">
+                        本网站无意侵权，只为交流学习使用，原网址：
+                        <a href="www.model-based-enterprise.org">www.model-based-enterprise.org</a>
+                	</div>
                     <nav id="footer-nav">
                         <ul>
                             <li><a href="sitemap.aspx">Site Map</a> &middot;</li>
@@ -231,6 +231,4 @@ our website and if there are any suggestions you would like to offer.</p>
 <!-- end container -->
 
 </body>
-
-<!-- Mirrored from www.model-based-enterprise.org/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 20 Jun 2016 07:52:50 GMT -->
 </aspx>
