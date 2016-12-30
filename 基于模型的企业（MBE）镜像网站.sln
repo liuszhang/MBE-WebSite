@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26014.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "基于模型的企业（MBE）镜像网站", "..\MBE-WebSite\WebSites\基于模型的企业（MBE）镜像网站", "{3E3B1ED4-6256-4F12-A49F-C70F1E74E94B}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "基于模型的企业（MBE）镜像网站", "WebSites\基于模型的企业（MBE）镜像网站\", "{3E3B1ED4-6256-4F12-A49F-C70F1E74E94B}"
 	ProjectSection(WebsiteProperties) = preProject
 		SccProjectName = "SAK"
 		SccAuxPath = "SAK"
@@ -29,32 +29,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "基于模型的企业（MBE
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ajax.googleapis.com", "..\MBE-WebSite\WebSites\MBE copy\model-based enterprise\ajax.googleapis.com", "{EB0D49EB-D02B-455F-A7F1-590A5D20CFD2}"
-	ProjectSection(WebsiteProperties) = preProject
-		SccProjectName = "SAK"
-		SccAuxPath = "SAK"
-		SccLocalPath = "SAK"
-		SccProvider = "SAK"
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_58111"
-		Debug.AspNetCompiler.PhysicalPath = "..\MBE-WebSite\WebSites\MBE copy\model-based enterprise\ajax.googleapis.com\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58111\"
-		Debug.AspNetCompiler.Updateable = "true"
-		Debug.AspNetCompiler.ForceOverwrite = "true"
-		Debug.AspNetCompiler.FixedNames = "false"
-		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_58111"
-		Release.AspNetCompiler.PhysicalPath = "..\MBE-WebSite\WebSites\MBE copy\model-based enterprise\ajax.googleapis.com\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58111\"
-		Release.AspNetCompiler.Updateable = "true"
-		Release.AspNetCompiler.ForceOverwrite = "true"
-		Release.AspNetCompiler.FixedNames = "false"
-		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "58111"
-		SlnRelativePath = "..\MBE-WebSite\WebSites\MBE copy\model-based enterprise\ajax.googleapis.com\"
-	EndProjectSection
-EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "www.google-analytics.com", "..\MBE-WebSite\WebSites\MBE copy\model-based enterprise\www.google-analytics.com", "{7BDC06C5-1D70-4E1C-97D6-D0455C88FD78}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "www.google-analytics.com", "WebSites\MBE copy\model-based enterprise\www.google-analytics.com\", "{7BDC06C5-1D70-4E1C-97D6-D0455C88FD78}"
 	ProjectSection(WebsiteProperties) = preProject
 		SccProjectName = "SAK"
 		SccAuxPath = "SAK"
@@ -86,33 +61,10 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3E3B1ED4-6256-4F12-A49F-C70F1E74E94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3E3B1ED4-6256-4F12-A49F-C70F1E74E94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EB0D49EB-D02B-455F-A7F1-590A5D20CFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EB0D49EB-D02B-455F-A7F1-590A5D20CFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BDC06C5-1D70-4E1C-97D6-D0455C88FD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7BDC06C5-1D70-4E1C-97D6-D0455C88FD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 4
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://oa:8081/tfs/defaultcollection
-		SccLocalPath0 = .
-		SccWebProject1 = true
-		SccProjectUniqueName1 = ..\\MBE-WebSite\WebSites\\MBE\u0020copy\\model-based\u0020enterprise\\ajax.googleapis.com
-		SccProjectName1 = ../WebSites/MBE\u0020copy/model-based\u0020enterprise/ajax.googleapis.com
-		SccLocalPath1 = ..\\MBE-WebSite\WebSites\\MBE\u0020copy\\model-based\u0020enterprise\\ajax.googleapis.com
-		SccProjectEnlistmentChoice1 = 2
-		SccWebProject2 = true
-		SccProjectUniqueName2 = ..\\MBE-WebSite\WebSites\\MBE\u0020copy\\model-based\u0020enterprise\\www.google-analytics.com
-		SccProjectName2 = ../WebSites/MBE\u0020copy/model-based\u0020enterprise/www.google-analytics.com
-		SccLocalPath2 = ..\\MBE-WebSite\WebSites\\MBE\u0020copy\\model-based\u0020enterprise\\www.google-analytics.com
-		SccProjectEnlistmentChoice2 = 2
-		SccWebProject3 = true
-		SccProjectUniqueName3 = ..\\MBE-WebSite\WebSites\\基于模型的企业（MBE）镜像网站
-		SccProjectName3 = ../WebSites/基于模型的企业（MBE）镜像网站
-		SccLocalPath3 = ..\\MBE-WebSite\WebSites\\基于模型的企业（MBE）镜像网站
-		SccProjectEnlistmentChoice3 = 2
 	EndGlobalSection
 EndGlobal

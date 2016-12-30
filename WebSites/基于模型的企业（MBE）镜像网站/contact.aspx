@@ -1,4 +1,126 @@
-﻿<!DOCTYPE aspx>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="MasterPage.master" AutoEventWireup="true" %>
+
+
+
+<%--<script runat="server">
+
+//protected void Button1_Click()
+//{
+//    MailDefinition md = new MailDefinition();
+//    md.From = "liuszhang@qq.com";
+//    md.CreateMailMessage("liuszhang@qq.com", null, this);
+//}
+</script>--%>
+
+
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
+    <title>联系我</title>
+</asp:Content>
+<asp:Content ID="Content4" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">        
+    <!-- begin content -->
+        <section id="content" class="container clearfix">
+        	<!-- begin page header -->
+            <header id="page-header">
+            	<h1 id="page-title">Contact Model Based Enterprise</h1>	
+            </header>
+            <!-- end page header -->
+        	
+            <!-- begin sidebar -->
+            <aside id="sidebar" class="one-fourth">
+            	<div class="widget">
+            	  <nav>
+					  <ul class="menu">
+							<li><a href="about-mbe.aspx">关于MBE</a></li>
+							<li><a href="privacy-policy.aspx">Privacy Policy</a></li>
+                         <li><a href="legal-statement.aspx">Legal Statement</a></li>
+					</ul>
+					</nav>
+				</div>
+            </aside>
+            <!-- end sidebar -->
+            
+            <!-- begin main content -->
+            <section id="main">
+            <section class="three-fourths column-last">
+              <div id="content2">
+                <div id="content3">
+                  <h2>General Contact Form</h2>
+            <div id="contact-notification-box-success" class="notification-box notification-box-success" style="display: none;">
+                <p>Your message has been successfully sent. We will get back to you as soon as possible.</p>
+                <a href="#" class="notification-close notification-close-success">x</a>
+            </div>
+
+                <div id="contact-notification-box-error" class="notification-box notification-box-error " style="display: none;">
+                    <p id="contact-notification-box-error-msg" data-default-msg="Your message couldn't be sent because a server error occurred. Please try again."></p>
+                    <a href="#" class="notification-close notification-close-error">x</a>
+                </div>
+            <form id="contact-form" class="content-form" method="post" action="#">
+                <p>
+                    <label for="name">Name:<span class="note">*</span></label>
+                    <input id="name" type="text" name="name" class="required">
+                </p>
+                <p>
+                    <label for="title">Title/Position:<span class="note">*</span></label>
+                    <input id="title" type="title" name="title" class="required">
+                </p>
+              <p>
+                <label for="company">Company:</label>
+                    <input id="company" type="company" name="company">
+                </p>
+                <p>
+                    <label for="address">Address:</label>
+                    <input id="address" type="address" name="address">
+                </p>
+                <p>
+                  <label for="phone">Phone:</label>
+                  <input id="phone" type="phone" name="phone">
+                </p>
+              <p>
+                    <label for="email">Email:<span class="note">*</span></label>
+                    <input id="email" type="email" name="email" class="required">
+                </p>
+                <p>
+                  <label for="message">Please type a brief message in the area below:<span class="note">*</span></label>
+                    <textarea id="message" cols="68" rows="8" name="message" class="required"></textarea>
+                </p>
+                <h2>Optional Survey Form</h2>
+              <p>In order to keep our website relevant and fresh with content we ask for you help by providing a little about how you found our website and if there are any suggestions you would like to offer.</p>
+                <p>
+                    <label for="How did you find our website?">How did you find our website?</label>
+                    <input id="How did you find our website?" type="How did you find our website?" name="How did you find our website?">
+                </p>
+                <p>
+                  <label for="How often to you visit the site">How often to you visit the site?</label>
+                  <input id="How often to you visit the site" type="How often to you visit the site" name="How often to you visit the site">
+              </p>
+              <p>
+                <label for="belong to linkedin">Do you belong to our LinkedIn group?<span class="note"></span></label>
+                    <input id="belong to linkedin" type="belong to linkedin" name="belong to linkedin">
+              </p>
+                <p>Do you have any suggestions on improving our website? <br>
+                  If yes please use the area below to submit you suggestions. Thank you.
+<textarea id="suggestions" cols="68" rows="8" name="suggestions"></textarea>
+              </p>
+                                <p>
+                    <input id="submit" class="button" type="submit" name="submit" value="Send Message" formenctype="multipart/form-data" formmethod="get">
+<%--<asp:Button ID="Button1" class="button" runat="server" Text="Send Message" OnClick="Button1_Click" />--%>
+                </p>
+            </form>
+            <p><span class="note">*</span> Required fields</p>
+            <!-- end contact form -->
+                </div>
+              </div>
+            </section>
+            </section>
+            <!-- end main content -->
+        </section>
+        <!-- end content -->   
+</asp:Content>
+
+
+
+<%--<!DOCTYPE aspx>
  <aspx class="no-js"> 
 <meta http-equiv="content-type" content="text/aspx;charset=UTF-8" />
 <head>
@@ -98,102 +220,7 @@
         </header>
         <!-- end header -->
         
-    	<!-- begin content -->
-        <section id="content" class="container clearfix">
-        	<!-- begin page header -->
-            <header id="page-header">
-            	<h1 id="page-title">Contact Model Based Enterprise</h1>	
-            </header>
-            <!-- end page header -->
-        	
-            <!-- begin sidebar -->
-            <aside id="sidebar" class="one-fourth">
-            	<div class="widget">
-            	  <nav>
-					  <ul class="menu">
-							<li><a href="about-mbe.aspx">About MBE</a></li>
-							<li><a href="privacy-policy.aspx">Privacy Policy</a></li>
-                         <li><a href="legal-statement.aspx">Legal Statement</a></li>
-					</ul>
-					</nav>
-				</div>
-            </aside>
-            <!-- end sidebar -->
-            
-            <!-- begin main content -->
-            <section id="main">
-            <section class="three-fourths column-last">
-              <div id="content2">
-                <div id="content3">
-                  <h2>General Contact Form</h2>
-            <div id="contact-notification-box-success" class="notification-box notification-box-success" style="display: none;">
-                <p>Your message has been successfully sent. We will get back to you as soon as possible.</p>
-                <a href="#" class="notification-close notification-close-success">x</a>
-            </div>
-
-                <div id="contact-notification-box-error" class="notification-box notification-box-error " style="display: none;">
-                    <p id="contact-notification-box-error-msg" data-default-msg="Your message couldn't be sent because a server error occurred. Please try again."></p>
-                    <a href="#" class="notification-close notification-close-error">x</a>
-                </div>
-            <form id="contact-form" class="content-form" method="post" action="#">
-                <p>
-                    <label for="name">Name:<span class="note">*</span></label>
-                    <input id="name" type="text" name="name" class="required">
-                </p>
-                <p>
-                    <label for="title">Title/Position:<span class="note">*</span></label>
-                    <input id="title" type="title" name="title" class="required">
-                </p>
-              <p>
-                <label for="company">Company:</label>
-                    <input id="company" type="company" name="company">
-                </p>
-                <p>
-                    <label for="address">Address:</label>
-                    <input id="address" type="address" name="address">
-                </p>
-                <p>
-                  <label for="phone">Phone:</label>
-                  <input id="phone" type="phone" name="phone">
-                </p>
-              <p>
-                    <label for="email">Email:<span class="note">*</span></label>
-                    <input id="email" type="email" name="email" class="required">
-                </p>
-                <p>
-                  <label for="message">Please type a brief message in the area below:<span class="note">*</span></label>
-                    <textarea id="message" cols="68" rows="8" name="message" class="required"></textarea>
-                </p>
-                <h2>Optional Survey Form</h2>
-              <p>In order to keep our website relevant and fresh with content we ask for you help by providing a little about how you found
-our website and if there are any suggestions you would like to offer.</p>
-                <p>
-                    <label for="How did you find our website?">How did you find our website?</label>
-                    <input id="How did you find our website?" type="How did you find our website?" name="How did you find our website?">
-                </p>
-                <p>
-                  <label for="How often to you visit the site">How often to you visit the site?</label>
-                  <input id="How often to you visit the site" type="How often to you visit the site" name="How often to you visit the site">
-              </p>
-              <p>
-                <label for="belong to linkedin">Do you belong to our LinkedIn group?<span class="note"></span></label>
-                    <input id="belong to linkedin" type="belong to linkedin" name="belong to linkedin">
-              </p>
-                <p>Do you have any suggestions on improving our website? <br>
-                  If yes please use the area below to submit you suggestions. Thank you.
-<textarea id="suggestions" cols="68" rows="8" name="suggestions"></textarea>
-              </p>
-                                <p>
-                    <input id="submit" class="button" type="submit" name="submit" value="Send Message">
-                </p>
-            </form>
-            <p><span class="note">*</span> Required fields</p>
-            <!-- end contact form -->
-                </div></div></section>
-            </section>
-            <!-- end main content -->
-        </section>
-        <!-- end content -->             
+    	          
     
 	<!-- begin footer -->
 	<footer id="footer">
@@ -231,4 +258,4 @@ our website and if there are any suggestions you would like to offer.</p>
 <!-- end container -->
 
 </body>
-</aspx>
+</aspx>--%>
