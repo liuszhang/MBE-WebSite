@@ -22,7 +22,7 @@
         <section id="content" class="container clearfix">
         	<!-- begin page header -->
             <header id="page-header">
-            	<h1 id="page-title">Contact Model Based Enterprise</h1>	
+            	<h1 id="page-title">联系我</h1>	
             </header>
             <!-- end page header -->
         	
@@ -32,8 +32,8 @@
             	  <nav>
 					  <ul class="menu">
 							<li><a href="about-mbe.aspx">关于MBE</a></li>
-							<li><a href="privacy-policy.aspx">Privacy Policy</a></li>
-                         <li><a href="legal-statement.aspx">Legal Statement</a></li>
+							<li><a href="privacy-policy.aspx">隐私策略</a></li>
+                         <li><a href="legal-statement.aspx">法律声明</a></li>
 					</ul>
 					</nav>
 				</div>
@@ -45,7 +45,7 @@
             <section class="three-fourths column-last">
               <div id="content2">
                 <div id="content3">
-                  <h2>General Contact Form</h2>
+                  <h2>信息总览</h2>
             <div id="contact-notification-box-success" class="notification-box notification-box-success" style="display: none;">
                 <p>Your message has been successfully sent. We will get back to you as soon as possible.</p>
                 <a href="#" class="notification-close notification-close-success">x</a>
@@ -57,57 +57,57 @@
                 </div>
             <form id="contact-form" class="content-form" method="post" action="#">
                 <p>
-                    <label for="name">Name:<span class="note">*</span></label>
+                    <label for="name">姓名:<span class="note">*</span></label>
                     <input id="name" type="text" name="name" class="required">
                 </p>
                 <p>
-                    <label for="title">Title/Position:<span class="note">*</span></label>
+                    <label for="title">标题/主题:<span class="note">*</span></label>
                     <input id="title" type="title" name="title" class="required">
                 </p>
               <p>
-                <label for="company">Company:</label>
+                <label for="company">公司:</label>
                     <input id="company" type="company" name="company">
                 </p>
                 <p>
-                    <label for="address">Address:</label>
+                    <label for="address">地址:</label>
                     <input id="address" type="address" name="address">
                 </p>
                 <p>
-                  <label for="phone">Phone:</label>
+                  <label for="phone">电话:</label>
                   <input id="phone" type="phone" name="phone">
                 </p>
               <p>
-                    <label for="email">Email:<span class="note">*</span></label>
+                    <label for="email">邮箱:<span class="note">*</span></label>
                     <input id="email" type="email" name="email" class="required">
                 </p>
                 <p>
-                  <label for="message">Please type a brief message in the area below:<span class="note">*</span></label>
+                  <label for="message">请在下方填写简明描述:<span class="note">*</span></label>
                     <textarea id="message" cols="68" rows="8" name="message" class="required"></textarea>
                 </p>
-                <h2>Optional Survey Form</h2>
-              <p>In order to keep our website relevant and fresh with content we ask for you help by providing a little about how you found our website and if there are any suggestions you would like to offer.</p>
+                <h2>可选内容</h2>
+              <p>为了保证网站内容正确和与时俱进，我们需要您帮助提供一些包括您如何找到我们网站等信息。</p>
                 <p>
-                    <label for="How did you find our website?">How did you find our website?</label>
+                    <label for="How did you find our website?">您是如何知道这个网站的？</label>
                     <input id="How did you find our website?" type="How did you find our website?" name="How did you find our website?">
                 </p>
                 <p>
-                  <label for="How often to you visit the site">How often to you visit the site?</label>
+                  <label for="How often to you visit the site">您一般多长时间访问此网站一次？</label>
                   <input id="How often to you visit the site" type="How often to you visit the site" name="How often to you visit the site">
               </p>
               <p>
-                <label for="belong to linkedin">Do you belong to our LinkedIn group?<span class="note"></span></label>
+                <label for="belong to linkedin">您是否属于我们的领英小组？<span class="note"></span></label>
                     <input id="belong to linkedin" type="belong to linkedin" name="belong to linkedin">
               </p>
-                <p>Do you have any suggestions on improving our website? <br>
-                  If yes please use the area below to submit you suggestions. Thank you.
+                <p>您是否对网站又一些建议和意见？ <br>
+                  如果有，请在下方填写相关信息并提交给我。谢谢。<br>
 <textarea id="suggestions" cols="68" rows="8" name="suggestions"></textarea>
               </p>
                                 <p>
-                    <input id="submit" class="button" type="submit" name="submit" value="Send Message" formenctype="multipart/form-data" formmethod="get">
+                    <input id="submit" class="button" type="submit" name="submit" value="发送消息" formenctype="multipart/form-data" formmethod="get">
 <%--<asp:Button ID="Button1" class="button" runat="server" Text="Send Message" OnClick="Button1_Click" />--%>
                 </p>
             </form>
-            <p><span class="note">*</span> Required fields</p>
+            <p><span class="note">*</span> 必填项</p>
             <!-- end contact form -->
                 </div>
               </div>
