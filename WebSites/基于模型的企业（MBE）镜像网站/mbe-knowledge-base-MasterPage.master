@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="mbe-knowledge-base-MasterPage.master.cs" Inherits="mbe_knowledge_base_MasterPage" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+    <asp:ContentPlaceHolder id="head" runat="server">        
+        </asp:ContentPlaceHolder>
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+
+    <!-- begin content -->
+        <section id="content" class="container clearfix">
+        	
+        	<!-- begin page header -->
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">        
+        </asp:ContentPlaceHolder>
+            <!-- end page header -->
+            
+            <!-- begin sidebar -->
+            <aside id="sidebar" class="one-fourth">
+            	<div class="widget">
+            	  <nav>
+					  <ul class="menu">
+						<li><a href="model-based-resource-links.aspx">基于模型相关资源链接</a></li>
+						<li><a href="model-based-enterprise-presentations.aspx">MBE 相关报告</a></li>
+						<li><a href="mbe-videos-3d-models.aspx">MBE 相关视频</a></li>
+                         <li><a href="manufacturing-extension-partnership.aspx">MEP 中心定位</a></li>
+                         <li><a href="mbe-articles.aspx">MBE 相关文献</a></li>
+                         <li><a href="mbe-success-stories.aspx">MBE 成功案例</a></li>
+                         <li><a href="mbe-lessons-learned.aspx">MBE 学习课程</a></li>
+                         <li><a href="content-submission.aspx">内容提交表格</a></li>
+					</ul>
+					</nav>
+				</div>
+            </aside>
+            <!-- end sidebar -->
+            
+            <!-- begin main content -->
+            <section id="main">
+            <section class="three-fourths column-last">
+                
+    <asp:ContentPlaceHolder id="ContentPlaceHolder2" runat="server">        
+        </asp:ContentPlaceHolder>
+
+            </section>
+            </section>
+            <!-- end main content -->
+        </section>
+
+</asp:Content>
+

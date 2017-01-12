@@ -1,38 +1,15 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="MasterPage.master" AutoEventWireup="true" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/mbe-resources-MasterPage.master" AutoEventWireup="true" %>
 
-
-<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
     <title>相关资源</title>
 </asp:Content>
-<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">        
-    <!-- begin content -->
-        <section id="content" class="container clearfix">
-        	<!-- begin page header -->
-            <header id="page-header">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+    <header id="page-header">
             	<h1 id="page-title">基于模型的企业相关资源</h1>	
             </header>
-            <!-- end page header -->
-        	
-            <!-- begin sidebar -->
-            <aside id="sidebar" class="one-fourth">
-            	<div class="widget">
-            	  <nav>
-					  <ul class="menu">
-							<li><a href="itar-certification.aspx"> ITAR 认证</a></li>
-							<li><a href="mil-standards.aspx">MIL 标准</a></li>
-							<li><a href="mbe-guidance.aspx">MBE 向导</a></li>
-                            <li><a href="mbe-reports.aspx">MBE 报道</a></li>
-					    <li><a href="mbe-linkedin-group.aspx">MBE LinkedIn Group</a></li>
-						</ul>
-					</nav>
-				</div>
-            </aside>
-            <!-- end sidebar -->
-            
-            <!-- begin main content -->
-            <section id="main">
-            <!-- begin accordion -->
-            <section class="three-fourths column-last">
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder2" Runat="Server">
+    
               <div id="content2">
               <div class="entry-image float-right"><img src="images/MBE-Resources.jpg" alt="MBE Resources"></a>
                     </div>
@@ -56,11 +33,6 @@
                 </ul>
                 <p align="left">Information on supplier assessments of MBE capabilities is also available for review in the Reports page under this section. </p>
               </div>
-            </section>
-            <!-- end accordion -->
-            </section>
-            <!-- end main content -->
-        </section>
-        <!-- end content --> 
+            
 </asp:Content>
 

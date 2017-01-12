@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="mbe-resources-MasterPage.master.cs" Inherits="mbe_resources_MasterPage" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+    <asp:ContentPlaceHolder id="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+    <!-- begin content -->
+        <section id="content" class="container clearfix">
+        	
+        	<!-- begin page header -->
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+
+            </asp:ContentPlaceHolder>
+            <!-- end page header -->
+            
+            <!-- begin sidebar -->
+            <aside id="sidebar" class="one-fourth">
+            	<div class="widget">
+            	  <nav>
+					  <ul class="menu">
+							<li><a href="itar-certification.aspx"> ITAR 认证</a></li>
+							<li><a href="mil-standards.aspx">MIL 标准</a></li>
+							<li><a href="mbe-guidance.aspx">MBE 向导</a></li>
+                            <li><a href="mbe-reports.aspx">MBE 报告</a></li>
+					    <li><a href="mbe-linkedin-group.aspx">MBE 领英团队</a></li>
+						</ul>
+					</nav>
+				</div>
+            </aside>
+            <!-- end sidebar -->
+            
+            <!-- begin main content -->
+            <section id="main">
+            <section class="three-fourths column-last">
+                
+    <asp:ContentPlaceHolder id="ContentPlaceHolder2" runat="server">
+
+    </asp:ContentPlaceHolder>
+
+            </section>
+            </section>
+            <!-- end main content -->
+        </section>
+
+</asp:Content>
+

@@ -4,23 +4,6 @@
 
 <aspx>
 
-<%--<head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title></title>
-    <asp:ContentPlaceHolder id="head" runat="server">
-    </asp:ContentPlaceHolder>
-
-    <!-- begin CSS -->
-	<link href="../style.css" type="text/css" rel="stylesheet" id="mainstyle">
-	<!--[if IE]> <link href="css/ie.css" type="text/css" rel="stylesheet"> <![endif]-->
-	<link href="../css/colors/purple.aspx" type="text/css" rel="stylesheet" id="colorstyle">
-    <!-- end CSS -->
-	
-	<link href="../images/favicon2.jpg" type="image/x-icon" rel="shortcut icon">
-
-</head>--%>
-
-
 <head>
 
     <asp:ContentPlaceHolder id="head" runat="server">
@@ -76,17 +59,27 @@
 
 
 <script type="text/javascript">
-(function($){
-    $(function(){        
-        $("#menu a").each(function(){
-            $(this).click(function(){
+    (function ($)
+    {
+    $(function ()
+    {        
+        $("#menu a").each(function ()
+        {
+            $(this).click(function ()
+            {
                 $("#menu li:eq(1) a").removeClass("current");
             });
         });
-        $("#menu li:eq(1) a").click(function(){$(this).addClass("current")})
+        $("#menu li:eq(1) a").click(function ()
+        {
+            $(this).addClass("current")
+        })
     });
 })(jQuery);
 </script>
+
+
+
     
 </head>
 
@@ -153,7 +146,7 @@
             <!-- begin footer bottom -->
             <div id="footer-bottom">
             	<div class="one-half">
-               <a href="https://cn.linkedin.com/in/盛章-刘-391032122" target="_new"><img src="../images/social-media/linkedin.png" width="98" height="25" alt=""/></a>
+               <a href="www.linkedin.com/in/liusz" target="_new"><img src="../images/social-media/linkedin.png" width="98" height="25" alt=""/></a>
 
                 	<p>有兴趣的小伙伴可以在领英上联系我。</p>
                 </div>
