@@ -6,7 +6,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
 
-    <section id="content" class="container clearfix">
+    <section id="content" class="container clearfix" style="min-height:125px;">
         <!-- begin slider -->
         <section id="slider-home">
             <div class="flex-container">
@@ -74,6 +74,20 @@ job shop
                     </ul>
                 </div>
             </div>
+
+            <ol class="flex-control-nav flex-control-paging">
+                <li>
+                    <a>1</a>
+                </li>
+                <li><a>2</a></li>
+                <li><a>3</a></li>
+                <li><a>4</a></li>
+                <li><a class="flex-active">5</a></li>
+            </ol>
+            <ul class="flex-direction-nav">
+                <li><a class="flex-prev" href="#">Previous</a></li>
+                <li><a class="flex-next" href="#">Next</a></li>
+            </ul>
         </section>
         <!-- end slider -->
 

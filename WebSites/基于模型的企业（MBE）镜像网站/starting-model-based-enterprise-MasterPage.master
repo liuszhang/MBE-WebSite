@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="starting-model-based-enterprise-MasterPage.master.cs" Inherits="starting_model_based_enterprise_MasterPage" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+    <asp:ContentPlaceHolder id="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+    <!-- begin content -->
+        <section id="content" class="container clearfix">
+        	
+        	<!-- begin page header -->
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <!-- end page header -->
+            
+            <!-- begin sidebar -->
+            <aside id="sidebar" class="one-fourth">
+            	<div class="widget">
+            	  <nav>
+					  <ul class="menu">
+                          <li><a href="mbe-assessment-tool.aspx">MBE 评估工具（对标）</a></li>
+                          <li><a href="capability-level-6.aspx">Level 6</a></li>
+                          <li><a href="capability-level-5.aspx">Level 5</a></li>
+                          <li><a href="capability-level-4.aspx">Level 4</a></li>
+                          <li><a href="capability-level-3.aspx">Level 3</a></li>
+                          <li><a href="capability-level-2.aspx">Level 2</a></li>
+                          <li><a href="capability-level-1.aspx">Level 1</a></li>
+                          <li><a href="capability-level-0.aspx">Level 0</a></li>
+                          <li><a href="standard-operating-procedures.aspx">标准执行流程</a></li>
+					</ul>
+            	  </nav>
+				</div>
+            </aside>
+            <!-- end sidebar -->
+            
+            <!-- begin main content -->
+            <section id="main">
+                <section class="three-fourths column-last">
+
+                <asp:ContentPlaceHolder id="ContentPlaceHolder2" runat="server">
+                </asp:ContentPlaceHolder>
+
+                </section>
+            </section>
+            <!-- end main content -->
+        </section>
+</asp:Content>
+
