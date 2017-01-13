@@ -42,14 +42,14 @@
                             <p id="contact-notification-box-error-msg" data-default-msg="Your message couldn't be sent because a server error occurred. Please try again."></p>
                             <a href="#" class="notification-close notification-close-error">x</a>
                         </div>
-                        <form id="contact-form" class="content-form" method="post" action="#">
+                        <form id="contact-form" class="content-form" method="post" action="mailto:liusz@liusz.com">
                             <p>
                                 <label for="name">姓名:<span class="note">*</span></label>
-                                <input id="name" type="text" name="name" class="required">
+                                <input id="name" type="text" name="name" class="required"/>
                             </p>
                             <p>
                                 <label for="title">标题/主题:<span class="note">*</span></label>
-                                <input id="title" type="title" name="title" class="required">
+                                <input id="title" type="title" name="title" class="required"/>
                             </p>
                             <p>
                                 <label for="company">公司:</label>
@@ -72,7 +72,9 @@
                                 <textarea id="message" cols="68" rows="8" name="message" class="required"></textarea>
                             </p>
                             <h2>可选内容</h2>
-                            <p>为了保证网站内容正确和与时俱进，我们需要您帮助提供一些包括您如何找到我们网站等信息。</p>
+                            <p>
+                                为了保证网站内容正确和与时俱进，我们需要您帮助提供一些包括您如何找到我们网站等信息。
+                            </p>
                             <p>
                                 <label for="How did you find our website?">您是如何知道这个网站的？</label>
                                 <input id="How did you find our website?" type="How did you find our website?" name="How did you find our website?">
@@ -92,8 +94,8 @@
                                 <textarea id="suggestions" cols="68" rows="8" name="suggestions"></textarea>
                             </p>
                             <p>
-                                <input id="submit" class="button" type="submit" name="submit" value="发送消息" formenctype="multipart/form-data" formmethod="get">
-                                <asp:Button ID="Button1" class="button" runat="server" Text="发送消息" OnClick="Button1_Click" />
+                                <input id="submit" class="button" type="submit" name="submit" value="发送消息" formenctype="multipart/form-data" formmethod="get"/>
+                                <%--<asp:Button ID="Button1" class="button" runat="server" Text="发送消息" OnClick="Button1_Click" />--%>
                             </p>
                         </form>
                         <p><span class="note">*</span> 必填项</p>
