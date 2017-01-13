@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26014.0
+VisualStudioVersion = 15.0.26020.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "基于模型的企业（MBE）镜像网站", "WebSites\基于模型的企业（MBE）镜像网站\", "{3E3B1ED4-6256-4F12-A49F-C70F1E74E94B}"
 	ProjectSection(WebsiteProperties) = preProject
@@ -29,31 +29,6 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "基于模型的企业（MBE
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "www.google-analytics.com", "WebSites\MBE copy\model-based enterprise\www.google-analytics.com\", "{7BDC06C5-1D70-4E1C-97D6-D0455C88FD78}"
-	ProjectSection(WebsiteProperties) = preProject
-		SccProjectName = "SAK"
-		SccAuxPath = "SAK"
-		SccLocalPath = "SAK"
-		SccProvider = "SAK"
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_58110"
-		Debug.AspNetCompiler.PhysicalPath = "..\MBE-WebSite\WebSites\MBE copy\model-based enterprise\www.google-analytics.com\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58110\"
-		Debug.AspNetCompiler.Updateable = "true"
-		Debug.AspNetCompiler.ForceOverwrite = "true"
-		Debug.AspNetCompiler.FixedNames = "false"
-		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_58110"
-		Release.AspNetCompiler.PhysicalPath = "..\MBE-WebSite\WebSites\MBE copy\model-based enterprise\www.google-analytics.com\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58110\"
-		Release.AspNetCompiler.Updateable = "true"
-		Release.AspNetCompiler.ForceOverwrite = "true"
-		Release.AspNetCompiler.FixedNames = "false"
-		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "58110"
-		SlnRelativePath = "..\MBE-WebSite\WebSites\MBE copy\model-based enterprise\www.google-analytics.com\"
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,8 +36,6 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3E3B1ED4-6256-4F12-A49F-C70F1E74E94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3E3B1ED4-6256-4F12-A49F-C70F1E74E94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7BDC06C5-1D70-4E1C-97D6-D0455C88FD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7BDC06C5-1D70-4E1C-97D6-D0455C88FD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

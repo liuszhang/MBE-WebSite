@@ -12,7 +12,8 @@ public partial class contact : System.Web.UI.Page
         
     }
 
-    protected void Button1_Click()
+
+    protected void Button1_Click(object sender, EventArgs e)
     {
         MailDefinition md = new MailDefinition();
         md.From = "liuszhang@qq.com";

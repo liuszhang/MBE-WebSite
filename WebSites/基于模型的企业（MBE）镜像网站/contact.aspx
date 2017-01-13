@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="MasterPage.master" AutoEventWireup="true" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="MasterPage.master" AutoEventWireup="true" CodeFile="contact.aspx.cs" Inherits="contact"%>
 
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
@@ -93,7 +93,7 @@
                             </p>
                             <p>
                                 <input id="submit" class="button" type="submit" name="submit" value="发送消息" formenctype="multipart/form-data" formmethod="get">
-                                <%--<asp:Button ID="Button1" class="button" runat="server" Text="Send Message" OnClick="Button1_Click" />--%>
+                                <asp:Button ID="Button1" class="button" runat="server" Text="发送消息" OnClick="Button1_Click" />
                             </p>
                         </form>
                         <p><span class="note">*</span> 必填项</p>
