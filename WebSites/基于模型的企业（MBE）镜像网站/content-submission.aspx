@@ -1,12 +1,12 @@
-<%@ Page Title="" Language="C#" MasterPageFile="mbe-knowledge-base-MasterPage.master" AutoEventWireup="true" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="mbe-knowledge-base-MasterPage.master" AutoEventWireup="true" %>
 
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>MBE 学习课程</title>
+    <title>内容提交表格</title>
 </asp:Content>
 <asp:Content ID="Content4" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <header id="page-header">
-            	<h1 id="page-title">MBE 学习课程</h1>	
+            	<h1 id="page-title">内容提交表格</h1>	
             </header>
 </asp:Content>
 
