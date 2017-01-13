@@ -1,8 +1,10 @@
 ﻿<%@ Master Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="mbe-knowledge-base-MasterPage.master.cs" Inherits="mbe_knowledge_base_MasterPage" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+    
     <asp:ContentPlaceHolder id="head" runat="server">        
         </asp:ContentPlaceHolder>
+
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">

@@ -1,4 +1,4 @@
-<%@ Page Title="" Language="C#" MasterPageFile="mbe-knowledge-base-MasterPage.master" AutoEventWireup="true" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="mbe-knowledge-base-MasterPage.master" AutoEventWireup="true" %>
 
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
