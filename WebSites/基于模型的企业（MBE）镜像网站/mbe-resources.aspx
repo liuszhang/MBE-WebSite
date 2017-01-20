@@ -21,7 +21,10 @@
                 </p>
                 <p>配置管理（CM）MIL-STD-3046 的一个新版本在最近也发布了。CM进程在军方的工程组织中被广泛的使用来管理复杂的系统，比如武器系统、车辆以及信息系统。 配置管理（CM），当应用在一个系统的生命周期中时，对它的性能、功能、物理属性提供了可视化的控制。 配置管理验证了一个系统是按意图进行执行的，并且定义和记录了足够的信息来支持计划的生命周期。 它可以帮助验证一些变更在系统层面上做到尽可能小的不利影响。这使得变更是有计划、计算好的，并且采用系统、标准的方法执行，这保证了计划变更是最大程度按照预期进行执行和造成影响。 <br>
                 </p>
-                <p>Of course, regulations such as the International Trade in Arms Regulations (ITAR) still apply to the transfer of technical documentation of items on the U.S. Munitions List.  For practical purposes, ITAR regulations dictate that information and material pertaining to defense and military related technologies may only be shared with U.S. Persons unless authorization from the Department of State is received or a special exemption is used. U.S. Persons (including organizations) can face heavy fines if they have, without authorization or the use of an exemption, provided foreign (non-US) persons with access to ITAR-protected defense articles, services or technical data. <br>
+                <p>当然，类似《国际武器交易条例》这样的规则同样适用于美国军火清单中相关的技术文件。考虑实际的目的，ITAR要求和国防与军事相关的信息和材料只允许在美国内部共享，除非有来自政府的特许或者有极特殊的用途。
+                     U.S. Persons (including organizations) can face heavy fines if they have, without 
+                    authorization or the use of an exemption, provided foreign (non-US) persons with access to ITAR-protected 
+                    defense articles, services or technical data. <br>
                 </p>
                 <p>Another resource outlined in this section is how MBE and MIL-STD-31000A relate to the goals of Better Buying Power 2.0. Through the focus on the updated TDP, a dividend is achieved when the best practices of MIL-STD-31000A are applied to the mandates of BBP 2.0, which are to strengthen DOD&rsquo;s buying power, improve industry productivity, and provide an affordable, value-added military capability to the warfighter. The impact of this relationship can be expressed in the following ways:<u></u></p>
                 <ul class="circle">

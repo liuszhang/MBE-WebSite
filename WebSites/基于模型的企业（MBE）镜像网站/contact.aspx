@@ -49,7 +49,7 @@
                             </p>
                             <p>
                                 <label for="title">标题/主题:<span class="note">*</span></label>
-                                <input id="title" type="title" name="title" class="required"/>
+                                <input id="title" type="title" name="subject" class="required"/>
                             </p>
                             <p>
                                 <label for="company">公司:</label>
@@ -69,7 +69,7 @@
                             </p>
                             <p>
                                 <label for="message">请在下方填写简明描述:<span class="note">*</span></label>
-                                <textarea id="message" cols="68" rows="8" name="message" class="required"></textarea>
+                                <textarea id="message" cols="68" rows="8" name="body" class="required"></textarea>
                             </p>
                             <h2>可选内容</h2>
                             <p>
