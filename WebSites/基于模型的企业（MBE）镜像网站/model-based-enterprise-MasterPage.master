@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="model-based-enterprise-MasterPage.master.cs" Inherits="model_based_enterprise_MasterPage" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+    <asp:ContentPlaceHolder id="head" runat="server">        
+        </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+    <!-- begin content -->
+        <section id="content" class="container clearfix">
+
+        	<!-- begin page header -->
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">        
+        </asp:ContentPlaceHolder>
+            <!-- end page header -->
+        	
+          <!-- begin sidebar -->
+            <aside id="sidebar" class="one-fourth"> </aside>
+            <aside id="sidebar" class="one-fourth">
+              <div class="widget">
+           	    <nav>
+				    <ul class="menu">
+                      <li><a href="model-based-enterprise-overview.aspx">总览</a></li>
+					  <li class="current-menu-item"><a href="model-based-enterprise.aspx">基于模型的企业</a></li>
+                      <ul class="arrow">
+						  <li><a href="configuration-management-process.aspx">配置管理</a></li>
+						  <li><a href="product-lifecycle-management.aspx">产品生命周期管理</a></li>
+						  <li><a href="model-based-definition.aspx">基于模型的定义</a></li>
+                      </ul>
+				      <li><a href="mbe-questions.aspx">常见问答</a></li>
+				      <li><a href="how-mbe-works.aspx">MBE如何工作</a></li>
+				      <li><a href="mbe-benefits.aspx">MBE收益</a></li>
+			      </ul>
+		        </nav>
+				</div>
+            </aside>
+            <!-- end sidebar -->
+            
+             <!-- begin main content -->
+            <section id="main">
+            <section class="three-fourths column-last">
+                
+    <asp:ContentPlaceHolder id="ContentPlaceHolder2" runat="server">        
+        </asp:ContentPlaceHolder>
+
+            </section>
+            </section>
+            <!-- end main content -->
+        </section>
+
+</asp:Content>
+

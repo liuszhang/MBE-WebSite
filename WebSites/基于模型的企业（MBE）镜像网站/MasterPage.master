@@ -74,6 +74,20 @@
   ga('send', 'pageview');
 </script>
 
+<%--<script language="javascript" type="text/javascript">
+    $(document).ready(function ()
+    {
+        $("ul#navlist li").each(function (index)
+        {
+            $(this).click(function ()
+            {
+                $("ul#navlist li").removeClass("current");
+                $("ul#navlist li").eq(index).addClass("current");
+       });
+     });
+     });
+</script>--%>
+
 
 <%--<script type="text/javascript">
     (function ($)
@@ -120,7 +134,7 @@
             
             <!-- begin header right -->
             <div class="one-half column-last">
-                <p id="tagline">国外MBE网站中文镜像站______________________By 刘盛章</p>
+                <p id="tagline">国外MBE网站中文镜像站______________________By LSZ</p>
             </div>
             <!-- end header right -->
         </section>
@@ -131,18 +145,12 @@
             <!-- begin navigation -->
             <nav id="nav">
                 <ul id="navlist" class="clearfix 1_tinynav1">
-                <li><a href="index-2.aspx" data-rel="submenu1">主页</a>
-                    </li>
-                    <li><a href="model-based-enterprise-overview.aspx" data-rel="submenu1">基于模型的企业</a>
-                    </li>
-                    <li><a href="mbe-resources.aspx" data-rel="submenu2">相关资源</a>
-                    </li>
-                    <li><a href="mbe-knowledge-base.aspx" data-rel="submenu3">知识基础</a>
-                    </li>
-                    <li><a href="starting-model-based-enterprise.aspx" data-rel="submenu4">如何开始</a>
-                    </li>
-                    <li><a href="mbe-events.aspx" data-rel="submenu5">MBE 大事记</a>
-                    </li>
+                <li class=""><a href="index-2.aspx" data-rel="submenu1">主页</a></li>
+                    <li><a href="model-based-enterprise-overview.aspx" data-rel="submenu1">基于模型的企业</a></li>
+                    <li><a href="mbe-resources.aspx" data-rel="submenu2">相关资源</a></li>
+                    <li><a href="mbe-knowledge-base.aspx" data-rel="submenu3">知识基础</a></li>
+                    <li><a href="starting-model-based-enterprise.aspx" data-rel="submenu4">如何开始</a></li>
+                    <li><a href="mbe-events.aspx" data-rel="submenu5">MBE 大事记</a></li>
                     <li><a href="contact.aspx">联系我</a></li>
                 </ul>
 
@@ -191,10 +199,10 @@
                 	</div>
                     <nav id="footer-nav">
                         <ul>
-                            <li><a href="sitemap.aspx">Site Map</a> &middot;</li>
+                            <li><a href="sitemap.aspx">网站地图</a> &middot;</li>
                             <li></li>
-                            <li><a href="legal-statement.aspx">Legal</a> &middot;</li>
-                            <li><a href="privacy-policy.aspx">Privacy</a></li>
+                            <li><a href="legal-statement.aspx">法律声明</a> &middot;</li>
+                            <li><a href="privacy-policy.aspx">隐私策略</a></li>
                         </ul>
                     </nav>
                 </div>
