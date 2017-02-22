@@ -24,7 +24,7 @@
                 <p>当然，类似《国际武器交易条例》这样的规则同样适用于美国军火清单中相关的技术文件。考虑实际的目的，ITAR要求和国防与军事相关的信息和材料只允许在美国内部共享，除非有来自政府的特许或者有极特殊的用途。
                     美国个人或政府如果为非美国个人或组织提供受ITAR保护的国防相关的文章、服务或技术文档，将受到极其严重的惩罚。<br/>
                 </p>
-                <p>这部分另外一个需要提出来的资源是MBE与MIL-STD-31000A如何实现优化购买力2.0的目标。Another resource outlined in this section is how MBE and MIL-STD-31000A relate to the goals of Better Buying Power 2.0. Through the focus on the updated TDP, a dividend is achieved when the best practices of MIL-STD-31000A are applied to the mandates of BBP 2.0, which are to strengthen DOD&rsquo;s buying power, improve industry productivity, and provide an affordable, value-added military capability to the warfighter. The impact of this relationship can be expressed in the following ways:<u></u></p>
+                <p>这部分另外一个需要提出来的资源是MBE与MIL-STD-31000A如何实现优化购买力2.0的目标。通过聚焦于更新的TDP，我们发现通过MIL-STD-31000A中的应用于实现优化购买力2.0任务的最佳案例已经从中获取了好处，提高了购买力、提高了生产效率，并且提供了一个更有效附加值更高的武器防御系统。这其中的影响关系可以从一下几点进行解释：</p>
                 <ul class="circle">
                   <li>Fewer sole-source contracts will be needed because of the ability to increase competition by acquiring the complete product definition;<u></u></li>
                   <li>Higher quality data is available, thus reducing the risk of errors during production and sustainment;<u></u></li>
