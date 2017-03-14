@@ -26,13 +26,13 @@
                 </p>
                 <p>这部分另外一个需要提出来的资源是MBE与MIL-STD-31000A如何实现优化购买力2.0的目标。通过聚焦于更新的TDP，我们发现通过MIL-STD-31000A中的应用于实现优化购买力2.0任务的最佳案例已经从中获取了好处，提高了购买力、提高了生产效率，并且提供了一个更有效附加值更高的武器防御系统。这其中的影响关系可以从一下几点进行解释：</p>
                 <ul class="circle">
-                  <li>Fewer sole-source contracts will be needed because of the ability to increase competition by acquiring the complete product definition;<u></u></li>
-                  <li>Higher quality data is available, thus reducing the risk of errors during production and sustainment;<u></u></li>
-                  <li>Time to mission is reduced on critical programs by providing reusable, quality, modern data;<u></u></li>
-                  <li>Cost savings can be realized by using the same modern data as the contractor, thus reducing labor through reuse versus re-creation; and<u></u></li>
-                  <li>By defining the right TDP early in the life cycle, it helps to avoid costly renegotiations for missing data during the later part of the life cycle.<u></u></li>
+                    <li>由于获取产品完整定义的能力提升，对独家厂商的依靠性将会降低；</li>
+                  <li>由于有了高质量的数据，减少了生产和维护中的风险；</li>
+                  <li>通过提供可重用、高质量、模块化的数据可以减少核心生产任务的时间；</li>
+                  <li>通过使用相同的模块化的数据可以减少成本，通过重用和再创造也可以节省劳动力；以及</li>
+                  <li>通过在生命周期的前端就定义好正确的TDP，有助于防止在后期由于数据缺失造成的高成本的返工。</li>
                 </ul>
-                <p align="left">Information on supplier assessments of MBE capabilities is also available for review in the Reports page under this section. </p>
+                <p align="left">供应商的MBE能力评估信息也可以在本章节找到。</p>
               </div>
             
 </asp:Content>

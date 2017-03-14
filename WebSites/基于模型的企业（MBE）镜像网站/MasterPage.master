@@ -117,14 +117,14 @@
                 </ul>
 
                 <select class="tinynav tinynav1">
-                    <option>Navigate ...</option>
-                    <option value="index-2.aspx"> - Home</option>
-                    <option value="model-based-enterprise-overview.aspx"> - Model Based Enterprise</option>
-                    <option value="mbe-resources.aspx"> - Resources</option>
-                    <option value="mbe-knowledge-base.aspx"> - Knowledge Base</option>
-                    <option value="starting-model-based-enterprise.aspx"> - How to Get Started</option>
-                    <option value="mbe-events.aspx"> - MBE Events</option>
-                    <option value="contact.aspx"> - Contact Us</option>
+                    <option>导航菜单 ...</option>
+                    <option value="index-2.aspx"> - 主页</option>
+                    <option value="model-based-enterprise-overview.aspx"> - 基于模型的企业</option>
+                    <option value="mbe-resources.aspx"> - 相关资源</option>
+                    <option value="mbe-knowledge-base.aspx"> - 知识基础</option>
+                    <option value="starting-model-based-enterprise.aspx"> - 如何开始</option>
+                    <option value="mbe-events.aspx"> - MBE 大事记</option>
+                    <option value="contact.aspx"> - 联系我</option>
                 </select>
             </nav>
             <!-- end navigation -->

@@ -12,12 +12,12 @@
     
                   <div id="content2">
                 <div id="content3">
-                  <p><img src="images/ITAR.jpg" alt="ITAR Certification" align="right">The  International Traffic in Arms Regulations (ITAR) controls products,  technologies and services designated as a defense article under the U.S.  Munitions List, as well as inherently military technologies. Companies  involved in the manufacture, sale or distribution of ITAR controlled  goods or services must be &ldquo;ITAR compliant&rdquo;. </p>
-                  <p> In accordance with the Model Based Enterprise (MBE) security procedure,  this Supplier ITAR Certification is required before ITAR-controlled  technical data packages can be accessed or viewed. </p>
-                  <h2>DEFINITIONS: </h2>
+                  <p><img src="images/ITAR.jpg" alt="ITAR Certification" align="right"/>国际武器运输条例(ITAR)作为一个在美国军需品名单之下管理产品、技术和服务的国防条例，同时也是一份固有的军事技术。涉及到ITAR控制的制造、销售和分配的内容的公司必要要遵从ITAR的规定。</p>
+                  <p> 为了和MBE的安全性流程保持一致，供应商在使用或者读取ITAR控制的技术数据时应当获得ITAR认证。</p>
+                  <h2>术语定义：</h2>
                   <ul class="circle indent">
-                    <li>Foreign National:   All individuals in the United States or overseas  who are not U.S. citizens or lawful permanent residents (i.e. U.S.  &ldquo;green card&rdquo; holders). </li>
-                    <li>Technical Data:   Information, other than software, which is  required for the design, development, production, manufacture, assembly,  operation, repair, testing, maintenance and/or modification of defense  articles. For more information, see §120.10 of the International Traffic  in Arms Regulations (ITAR), 22 CFR 120 – 130. (Click here and select  ITAR Part 120) </li>
+                    <li>其他国家：所有在美国或者海外不是美国公民或者永久居民（持美国绿卡）的人。</li>
+                    <li>技术数据：   Information, other than software, which is  required for the design, development, production, manufacture, assembly,  operation, repair, testing, maintenance and/or modification of defense  articles. For more information, see §120.10 of the International Traffic  in Arms Regulations (ITAR), 22 CFR 120 – 130. (Click here and select  ITAR Part 120) </li>
                   </ul>
                   <h2>CERTIFICATION:</h2>
                   <ol class="decimal">
@@ -30,7 +30,7 @@
                     <li>If the Supplier provides documentation or information containing  ITAR-controlled Technical Data to subcontractors, it will mark such  documents, emails, etc. with the following statement: &ldquo;This document  contains technical data that is controlled by the International Traffic  In Arms Regulations. Access to this document is restricted to U.S.  citizens and lawful permanent residents (US &ldquo;green card&rdquo; holders).&rdquo; By  accepting this data, the consignee agrees to honor the requirements of  the U.S. International Traffic in Arms Regulations (ITAR).&rdquo; </li>
                     <li>The Supplier certifies that it will, within 30 days of the close of  the RFQ or contract, return to the Prime Contractor or destroy all  information and documents containing ITAR-controlled Technical Data, and  all copies in its possession. If destroyed, the Supplier will provide a  written certification to the Prime Contractor that such information  and/or documents have been destroyed. </li>
                   </ol>
-                  <p> I certify on behalf of my company that the above statements are true and  correct. I acknowledge that I am responsible for notifying the Prime  Contractor and the MBE System Administrator of any changes in my  company&rsquo;s standing with the U.S. Government with regard to export  compliance. </p><hr>
+                  <p> I certify on behalf of my company that the above statements are true and  correct. I acknowledge that I am responsible for notifying the Prime  Contractor and the MBE System Administrator of any changes in my  company&rsquo;s standing with the U.S. Government with regard to export  compliance. </p><hr/>
                   <p>For additional information please click on this link to the Export/Import Compliance Resources page of the National Defense Industrial Association (NDIA) website (<a href="http://www.ndia.org/Resources/ExportImportComplianceResources/Pages/default.aspx" target="_new">http://www.ndia.org/Resources/ExportImportComplianceResources/Pages/default.aspx</a>).<br>
                   </p>
                   <p>For a link to the U.S. Munitions List (USML) please click here (<a href="http://www.pmddtc.state.gov/regulations_laws/documents/official_itar/2013/ITAR_Part_121.pdf">http://www.pmddtc.state.gov/regulations_laws/documents/official_itar/2013/ITAR_Part_121.pdf</a>)</p>
