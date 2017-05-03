@@ -17,25 +17,43 @@
                   <h2>术语定义：</h2>
                   <ul class="circle indent">
                     <li>其他国家：所有在美国或者海外不是美国公民或者永久居民（持美国绿卡）的人。</li>
-                    <li>技术数据：   Information, other than software, which is  required for the design, development, production, manufacture, assembly,  operation, repair, testing, maintenance and/or modification of defense  articles. For more information, see §120.10 of the International Traffic  in Arms Regulations (ITAR), 22 CFR 120 – 130. (Click here and select  ITAR Part 120) </li>
+                    <li>技术数据：一种信息，不同于软件，它是用于设计、研发、生产、制造、装配、操作、维修、测试、维护或者修正国防产品的条款。
+                        获取更多信息，参见ITAR第120部分。</li>
                   </ul>
-                  <h2>CERTIFICATION:</h2>
+                  <h2>认证：</h2>
                   <ol class="decimal">
-                    <li>The Supplier certifies that it has registered with the Directorate of Defense State Controls. (Click here to register) </li>
-                    <li>The Supplier understands its responsibilities under U.S. export  control laws and regulations, including ITAR, and certifies that it will  not disseminate any ITAR-controlled Technical Data that would violate  applicable export control laws and regulations. </li>
-                    <li>The Supplier understands that ITAR restricts Foreign National access  to ITAR-controlled technical data. The Supplier certifies that it will  not allow access by any Foreign National to ITAR-controlled technical  data packages without the prior written approval of the Prime  Contractor. This includes Foreign National employees as well as Foreign  Nationals outside the Supplier&rsquo;s company. </li>
-                    <li>The Supplier certifies that it will not assign any Foreign National  to perform work which requires access to ITAR-controlled Technical Data  without the prior written approval of the Prime Contractor. </li>
-                    <li>The Supplier certifies that it will advise its employees who have  access to ITAR-controlled Technical Data of their obligations regarding  compliance with points 2 through 4 above, and that it will actively  monitor and enforce compliance. </li>
-                    <li>The Supplier certifies that it will establish operating procedures  and physical security measures designed to protect ITAR-controlled  technical data packages from inadvertent release or disclosure to  Foreign Nationals or other unauthorized third parties. </li>
-                    <li>If the Supplier provides documentation or information containing  ITAR-controlled Technical Data to subcontractors, it will mark such  documents, emails, etc. with the following statement: &ldquo;This document  contains technical data that is controlled by the International Traffic  In Arms Regulations. Access to this document is restricted to U.S.  citizens and lawful permanent residents (US &ldquo;green card&rdquo; holders).&rdquo; By  accepting this data, the consignee agrees to honor the requirements of  the U.S. International Traffic in Arms Regulations (ITAR).&rdquo; </li>
-                    <li>The Supplier certifies that it will, within 30 days of the close of  the RFQ or contract, return to the Prime Contractor or destroy all  information and documents containing ITAR-controlled Technical Data, and  all copies in its possession. If destroyed, the Supplier will provide a  written certification to the Prime Contractor that such information  and/or documents have been destroyed. </li>
+                    <li>供应商的注册认证状态由国防委员会控制。</li>
+                    <li>供应商应该明确的是，他们的权利范围都在美国出口法律法规的控制中，包括ITAR，
+                        The Supplier understands its responsibilities under U.S. export  control laws and regulations, including ITAR,
+                        and certifies that it will  not disseminate any ITAR-controlled Technical Data that would violate  applicable export control laws and regulations. </li>
+                    <li>The Supplier understands that ITAR restricts Foreign National access  to ITAR-controlled technical data.
+                        The Supplier certifies that it will  not allow access by any Foreign National to ITAR-controlled technical  data packages without
+                        the prior written approval of the Prime  Contractor. This includes Foreign National employees as well as Foreign  Nationals outside the Supplier&rsquo;s company. </li>
+                    <li>The Supplier certifies that it will not assign any Foreign National  to perform work which requires access to 
+                        ITAR-controlled Technical Data  without the prior written approval of the Prime Contractor. </li>
+                    <li>The Supplier certifies that it will advise its employees who have  access to ITAR-controlled Technical Data of their obligations regarding  compliance with 
+                        points 2 through 4 above, and that it will actively  monitor and enforce compliance. </li>
+                    <li>The Supplier certifies that it will establish operating procedures  and physical security measures designed to 
+                        protect ITAR-controlled  technical data packages from inadvertent release or disclosure to  Foreign Nationals or other unauthorized third parties. </li>
+                    <li>If the Supplier provides documentation or information containing  ITAR-controlled Technical Data to subcontractors, 
+                        it will mark such  documents, emails, etc. with the following statement: &ldquo;This document  contains technical data that is controlled by the 
+                        International Traffic  In Arms Regulations. Access to this document is restricted to U.S.  
+                        citizens and lawful permanent residents (US &ldquo;green card&rdquo; holders).&rdquo; By  accepting this data,
+                        the consignee agrees to honor the requirements of  the U.S. International Traffic in Arms Regulations (ITAR).&rdquo; </li>
+                    <li>The Supplier certifies that it will, within 30 days of the close of  the RFQ or contract, 
+                        return to the Prime Contractor or destroy all  information and documents containing ITAR-controlled Technical Data, 
+                        and  all copies in its possession. If destroyed, the Supplier will provide a  written certification to the Prime Contractor that such information  and/or 
+                        documents have been destroyed. </li>
                   </ol>
-                  <p> I certify on behalf of my company that the above statements are true and  correct. I acknowledge that I am responsible for notifying the Prime  Contractor and the MBE System Administrator of any changes in my  company&rsquo;s standing with the U.S. Government with regard to export  compliance. </p><hr/>
-                  <p>For additional information please click on this link to the Export/Import Compliance Resources page of the National Defense Industrial Association (NDIA) website (<a href="http://www.ndia.org/Resources/ExportImportComplianceResources/Pages/default.aspx" target="_new">http://www.ndia.org/Resources/ExportImportComplianceResources/Pages/default.aspx</a>).<br>
+                  <p> I certify on behalf of my company that the above statements are true and  correct. 
+                      I acknowledge that I am responsible for notifying the Prime  Contractor and the MBE System Administrator of any changes in my  company&rsquo;s standing with 
+                      the U.S. Government with regard to export  compliance. </p><hr/>
+                  <p>更多信息请点击以下国防工业协会网站（NDIA）链接来导入/导出合规资源(<a href="http://www.ndia.org/Resources/ExportImportComplianceResources/Pages/default.aspx" 
+                          target="_new">http://www.ndia.org/Resources/ExportImportComplianceResources/Pages/default.aspx</a>).<br/>
                   </p>
-                  <p>For a link to the U.S. Munitions List (USML) please click here (<a href="http://www.pmddtc.state.gov/regulations_laws/documents/official_itar/2013/ITAR_Part_121.pdf">http://www.pmddtc.state.gov/regulations_laws/documents/official_itar/2013/ITAR_Part_121.pdf</a>)</p>
-                  <h2>Categories</h2>
-                  <p>The 20 categories of articles on the USML are:</p>
+                  <p>获取美国军需品清单请点击此处(<a href="http://www.pmddtc.state.gov/regulations_laws/documents/official_itar/2013/ITAR_Part_121.pdf">http://www.pmddtc.state.gov/regulations_laws/documents/official_itar/2013/ITAR_Part_121.pdf</a>)</p>
+                  <h2>分类</h2>
+                  <p>二十种美国军需品清单（USML）分别是：</p>
                   <ol class="decimal">
                     <li>Firearms, Close Assault Weapons and Combat Shotguns</li>
                     <li>Guns and Armament</li>

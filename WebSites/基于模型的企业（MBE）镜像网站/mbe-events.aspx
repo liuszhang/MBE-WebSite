@@ -65,14 +65,14 @@
                     July 21-25, 2014<br>
                     North Charleston, SC<br>
                     <a href="http://www.cmsc.org/cmsccharleston2014" target="blank">http://www.cmsc.org/cmsccharleston2014</a></p>
-                  <p><strong>Global Product Data Interoperability Summit (GPDIS)</strong><br>
+                  <p><strong>全球产品数据互通性峰会(GPDIS)</strong><br>
                     September 8-11, 2014<br>
                     Chandler, AZ<br>
                     <a href="http://news.thomasnet.com/companystory/Second-Boeing-Northrop-Global-Product-Data-Interoperability-Summit-Aims-to-Boost-Open-Industry-Dialogue-835706" target="_blank">http://news.thomasnet.com/companystory/Second-Boeing-Northrop-Global-Product-Data-Interoperability-Summit-Aims-to-Boost-Open-Industry-Dialogue-835706</a></p>
                   <p><strong>Defense Manufacturing Conference (DMC) 2014</strong><br>
                     December 1-4, 2014<br>
                     San Antonio, TX</p>
-                  <p><strong>Model Based Enterprise Summit 2014</strong><br>
+                  <p><strong>2014 基于模型企业峰会</strong><br>
                     December 16-18, 2014<br>
                     Gaithersburg, MD<br>
                   <a href="http://www.nist.gov/el/msid/mbesummit_2014.cfm" target="_new">http://www.nist.gov/el/msid/mbesummit_2014.cfm                  </a></p>
